@@ -1,0 +1,40 @@
+Return-Path: <starp56@hosting31.ukrnames.com>
+Delivered-To: starp56@hosting31.ukrnames.com
+Received: from hosting31.ukrnames.com
+	by hosting31.ukrnames.com with LMTP
+	id oBATI1DVFWTPdQAAm59mNw
+	(envelope-from <starp56@hosting31.ukrnames.com>)
+	for <starp56@hosting31.ukrnames.com>; Sat, 18 Mar 2023 17:14:24 +0200
+Return-path: <starp56@hosting31.ukrnames.com>
+Envelope-to: admin@star-poe.com.ua
+Delivery-date: Sat, 18 Mar 2023 17:14:24 +0200
+Received: from starp56 by hosting31.ukrnames.com with local (Exim 4.96)
+	(envelope-from <starp56@hosting31.ukrnames.com>)
+	id 1pdYGG-00083T-1h
+	for admin@star-poe.com.ua;
+	Sat, 18 Mar 2023 17:14:24 +0200
+To: admin@star-poe.com.ua
+Subject: New WordPress Site
+X-PHP-Originating-Script: 1251:PHPMailer.php
+Date: Sat, 18 Mar 2023 15:14:24 +0000
+From: WordPress <wordpress@star-poe.com.ua>
+Message-ID: <RX89oeLrTPdNo9Tl7jUv6bYnyIoIhHckWqS82vxIQQ@star-poe.com.ua>
+X-Mailer: PHPMailer 6.6.5 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Your new WordPress site has been successfully set up at:
+
+https://star-poe.com.ua
+
+You can log in to the administrator account with the following information:
+
+Username: starp56
+Password: The password you chose during installation.
+Log in here: https://star-poe.com.ua/wp-login.php
+
+We hope you enjoy your new site. Thanks!
+
+--The WordPress Team
+https://wordpress.org/
+

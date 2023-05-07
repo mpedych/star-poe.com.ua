@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/starp56/public_html
+group: starp56
+hascgi: 1
+homedir: /home/starp56
+ip: 51.77.52.225
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@star-poe.com.ua
+serveralias: mail.star-poe.com.ua www.star-poe.com.ua
+servername: star-poe.com.ua
+ssl: 1
+usecanonicalname: 'Off'
+user: starp56
+userdirprotect: ''

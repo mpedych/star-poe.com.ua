@@ -1,0 +1,93 @@
+--- 
+files: 
+  certificate: 
+    star_poe_com_ua_95df6_10c9b_1710688176_822bc3c0a8c5750f12718543f9efba37: 
+      created: '1679152176'
+      domains: 
+        - star-poe.com.ua
+        - mail.star-poe.com.ua
+        - www.star-poe.com.ua
+        - cpanel.star-poe.com.ua
+        - webmail.star-poe.com.ua
+        - webdisk.star-poe.com.ua
+        - cpcontacts.star-poe.com.ua
+        - cpcalendars.star-poe.com.ua
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “star-poe.com.ua”
+      id: star_poe_com_ua_95df6_10c9b_1710688176_822bc3c0a8c5750f12718543f9efba37
+      is_self_signed: 1
+      issuer.commonName: star-poe.com.ua
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: 95df605519045d267886bcc85c2cf641d89a3cde8ad2617166b0e8afcb037183514e08bb89e83f91e4e37fb6609f8cfa9c8e6cf1fa3487f60c99a37a067929a063a8cb33fb93bbe26ec803cd1ec008c61eff0e6325c032e230ffeaff39cfeede94f54b30ad6448bc8855c6ecc6ae08ae7f8d9e6862ec841d8f47f32d7e34b7d0dcbf2c1ab177e2447ca3f93282d415cdce402a7993c2c1179ccac3a3be183b65efac5fd89cce00d76091edea75918f1889033c35a60f168cbce8b6ae78858082abf07bec529a626beeb7abb30e66ba06029ffecd6bf27b819325216396d19698ce8c3148d2a6ae7f431b7037e33f67622f5e1a2e8e224d864a651c56c1e10c9b
+      modulus_length: 2048
+      not_after: '1710688176'
+      not_before: '1679152176'
+      serial: 80af27c0
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: star-poe.com.ua
+      validation_type: ~
+    star_poe_com_ua_d709a_39d8f_1710979199_36cdc189101e2ec1258731b99600eeb8: 
+      created: '1679308984'
+      domains: 
+        - star-poe.com.ua
+        - www.star-poe.com.ua
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: star-poe.com.ua и www.star-poe.com.ua
+      id: star_poe_com_ua_d709a_39d8f_1710979199_36cdc189101e2ec1258731b99600eeb8
+      is_self_signed: 0
+      issuer.commonName: Sectigo RSA Domain Validation Secure Server CA
+      issuer.organizationName: Sectigo Limited
+      key_algorithm: rsaEncryption
+      modulus: d709adf2c8de2c1f72314615d1c7c70cb8aeb1e440a9caf982c880a2cd3827f33ca716826935696dcfd458ced1c9fcfeb95be093e25d7e6c3b99cf23962394abc27e141d8a40d9d1c7c3399582be88eca1614fdc93590d7c02bf4a46614d87b18cbb41e1cd3e494b24ca2dced9d1ec0200a48c5a18d18836e89280ec075fbbad4c8372daf9db9093becb7d3411ce1fe5b6068cbb0d01ec00b95347fdb39375bf26d74726fa63bf58943e176b6371adfe982a943ea498649350a8988372482dd12f788ffc78b4d8fce6a3995197698f7d6e13436dbc16bdb4d0c061ca61d1a1846f7233ce62147f8f39f6384559d7505da8080e3b91b13087aa2adbb1cf939d8f
+      modulus_length: 2048
+      not_after: '1710979199'
+      not_before: '1679270400'
+      serial: 694c094370cc23f2c4ea485bdd83b7aa
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: star-poe.com.ua
+      validation_type: dv
+  key: 
+    95df6_10c9b_6e68b182f9bbf3a52f782cf636e4b505: 
+      created: '1679152176'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “star-poe.com.ua”
+      id: 95df6_10c9b_6e68b182f9bbf3a52f782cf636e4b505
+      key_algorithm: rsaEncryption
+      modulus: 95df605519045d267886bcc85c2cf641d89a3cde8ad2617166b0e8afcb037183514e08bb89e83f91e4e37fb6609f8cfa9c8e6cf1fa3487f60c99a37a067929a063a8cb33fb93bbe26ec803cd1ec008c61eff0e6325c032e230ffeaff39cfeede94f54b30ad6448bc8855c6ecc6ae08ae7f8d9e6862ec841d8f47f32d7e34b7d0dcbf2c1ab177e2447ca3f93282d415cdce402a7993c2c1179ccac3a3be183b65efac5fd89cce00d76091edea75918f1889033c35a60f168cbce8b6ae78858082abf07bec529a626beeb7abb30e66ba06029ffecd6bf27b819325216396d19698ce8c3148d2a6ae7f431b7037e33f67622f5e1a2e8e224d864a651c56c1e10c9b
+      modulus_length: 2048
+    d709a_39d8f_63e37f8326a6ca2a733d78fca6fae1d9: 
+      created: '1679308984'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: star-poe.com.ua и www.star-poe.com.ua
+      id: d709a_39d8f_63e37f8326a6ca2a733d78fca6fae1d9
+      key_algorithm: rsaEncryption
+      modulus: d709adf2c8de2c1f72314615d1c7c70cb8aeb1e440a9caf982c880a2cd3827f33ca716826935696dcfd458ced1c9fcfeb95be093e25d7e6c3b99cf23962394abc27e141d8a40d9d1c7c3399582be88eca1614fdc93590d7c02bf4a46614d87b18cbb41e1cd3e494b24ca2dced9d1ec0200a48c5a18d18836e89280ec075fbbad4c8372daf9db9093becb7d3411ce1fe5b6068cbb0d01ec00b95347fdb39375bf26d74726fa63bf58943e176b6371adfe982a943ea498649350a8988372482dd12f788ffc78b4d8fce6a3995197698f7d6e13436dbc16bdb4d0c061ca61d1a1846f7233ce62147f8f39f6384559d7505da8080e3b91b13087aa2adbb1cf939d8f
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      95df605519045d267886bcc85c2cf641d89a3cde8ad2617166b0e8afcb037183514e08bb89e83f91e4e37fb6609f8cfa9c8e6cf1fa3487f60c99a37a067929a063a8cb33fb93bbe26ec803cd1ec008c61eff0e6325c032e230ffeaff39cfeede94f54b30ad6448bc8855c6ecc6ae08ae7f8d9e6862ec841d8f47f32d7e34b7d0dcbf2c1ab177e2447ca3f93282d415cdce402a7993c2c1179ccac3a3be183b65efac5fd89cce00d76091edea75918f1889033c35a60f168cbce8b6ae78858082abf07bec529a626beeb7abb30e66ba06029ffecd6bf27b819325216396d19698ce8c3148d2a6ae7f431b7037e33f67622f5e1a2e8e224d864a651c56c1e10c9b: 
+        star_poe_com_ua_95df6_10c9b_1710688176_822bc3c0a8c5750f12718543f9efba37: ~
+      d709adf2c8de2c1f72314615d1c7c70cb8aeb1e440a9caf982c880a2cd3827f33ca716826935696dcfd458ced1c9fcfeb95be093e25d7e6c3b99cf23962394abc27e141d8a40d9d1c7c3399582be88eca1614fdc93590d7c02bf4a46614d87b18cbb41e1cd3e494b24ca2dced9d1ec0200a48c5a18d18836e89280ec075fbbad4c8372daf9db9093becb7d3411ce1fe5b6068cbb0d01ec00b95347fdb39375bf26d74726fa63bf58943e176b6371adfe982a943ea498649350a8988372482dd12f788ffc78b4d8fce6a3995197698f7d6e13436dbc16bdb4d0c061ca61d1a1846f7233ce62147f8f39f6384559d7505da8080e3b91b13087aa2adbb1cf939d8f: 
+        star_poe_com_ua_d709a_39d8f_1710979199_36cdc189101e2ec1258731b99600eeb8: ~
+    subject.commonName: 
+      star-poe.com.ua: 
+        star_poe_com_ua_95df6_10c9b_1710688176_822bc3c0a8c5750f12718543f9efba37: ~
+        star_poe_com_ua_d709a_39d8f_1710979199_36cdc189101e2ec1258731b99600eeb8: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “star-poe.com.ua”: star_poe_com_ua_95df6_10c9b_1710688176_822bc3c0a8c5750f12718543f9efba37
+      star-poe.com.ua и www.star-poe.com.ua: star_poe_com_ua_d709a_39d8f_1710979199_36cdc189101e2ec1258731b99600eeb8
+  key: 
+    friendly_name: 
+      Key for “star-poe.com.ua”: 95df6_10c9b_6e68b182f9bbf3a52f782cf636e4b505
+      star-poe.com.ua и www.star-poe.com.ua: d709a_39d8f_63e37f8326a6ca2a733d78fca6fae1d9
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      95df605519045d267886bcc85c2cf641d89a3cde8ad2617166b0e8afcb037183514e08bb89e83f91e4e37fb6609f8cfa9c8e6cf1fa3487f60c99a37a067929a063a8cb33fb93bbe26ec803cd1ec008c61eff0e6325c032e230ffeaff39cfeede94f54b30ad6448bc8855c6ecc6ae08ae7f8d9e6862ec841d8f47f32d7e34b7d0dcbf2c1ab177e2447ca3f93282d415cdce402a7993c2c1179ccac3a3be183b65efac5fd89cce00d76091edea75918f1889033c35a60f168cbce8b6ae78858082abf07bec529a626beeb7abb30e66ba06029ffecd6bf27b819325216396d19698ce8c3148d2a6ae7f431b7037e33f67622f5e1a2e8e224d864a651c56c1e10c9b: 95df6_10c9b_6e68b182f9bbf3a52f782cf636e4b505
+      d709adf2c8de2c1f72314615d1c7c70cb8aeb1e440a9caf982c880a2cd3827f33ca716826935696dcfd458ced1c9fcfeb95be093e25d7e6c3b99cf23962394abc27e141d8a40d9d1c7c3399582be88eca1614fdc93590d7c02bf4a46614d87b18cbb41e1cd3e494b24ca2dced9d1ec0200a48c5a18d18836e89280ec075fbbad4c8372daf9db9093becb7d3411ce1fe5b6068cbb0d01ec00b95347fdb39375bf26d74726fa63bf58943e176b6371adfe982a943ea498649350a8988372482dd12f788ffc78b4d8fce6a3995197698f7d6e13436dbc16bdb4d0c061ca61d1a1846f7233ce62147f8f39f6384559d7505da8080e3b91b13087aa2adbb1cf939d8f: d709a_39d8f_63e37f8326a6ca2a733d78fca6fae1d9

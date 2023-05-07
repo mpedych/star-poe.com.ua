@@ -1,0 +1,249 @@
+# Translation of Plugins - Menu Cart for WooCommerce - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Menu Cart for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-01 08:35:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Menu Cart for WooCommerce - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "www.wpovernight.com/"
+msgstr "www.wpovernight.com/"
+
+#. Author of the plugin/theme
+msgid "Jeremiah Prummer, Ewout Fernhout"
+msgstr "Jeremiah Prummer, Ewout Fernhout"
+
+#. Description of the plugin/theme
+msgid "Extension for WooCommerce that places a cart icon with number of items and total cost in the menu bar. Activate the plugin, set your options and you're ready to go! Will automatically conform to your theme styles."
+msgstr "Розширення для WooCommerce, яке розміщує значок кошика з кількістю елементів і загальною вартістю на панелі меню. Активуйте плагін, встановіть свої параметри, і вперед! Буде автоматично відповідати стилю вашої теми."
+
+#. Plugin URI of the plugin/theme
+msgid "www.wpovernight.com/plugins"
+msgstr "www.wpovernight.com/plugins"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Menu Cart"
+msgstr "WooCommerce Menu Cart"
+
+#: wp-menu-cart.php:414
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d товар"
+msgstr[1] "%d товари"
+msgstr[2] "%d товарів"
+
+#: wp-menu-cart.php:413
+msgid "Start shopping"
+msgstr "Почати покупки"
+
+#: wp-menu-cart.php:412
+msgid "View your shopping cart"
+msgstr "Перегляньте свій кошик"
+
+#: wp-menu-cart.php:199
+msgid "An old version of WooCommerce Menu Cart is currently activated, you need to disable or uninstall it for WP Menu Cart to function properly"
+msgstr "Активована стара версія WooCommerce Menu Cart, вам потрібно вимкнути або видалити її, щоб WooCommerce Menu Cart функціонував правильно."
+
+#: wp-menu-cart.php:194
+msgid "Hide this notice"
+msgstr "Приховати це повідомлення"
+
+#: wp-menu-cart.php:193
+msgid "WP Menu Cart Pro could not detect an active shop plugin. Make sure you have activated at least one of the supported plugins."
+msgstr "WP Menu Cart Pro не може виявити активний плагін магазину. Переконайтеся, що ви активували принаймні один із підтримуваних плагінів."
+
+#: includes/wpmenucart-settings.php:710
+msgid "Add to Menu"
+msgstr "Додати до меню"
+
+#: includes/wpmenucart-settings.php:705
+msgid "Menu Item"
+msgstr "Пункт меню"
+
+#: includes/wpmenucart-settings.php:642
+msgid "Additional icons are only available in"
+msgstr "Додаткові значки доступні лише в"
+
+#: includes/wpmenucart-settings.php:442 includes/wpmenucart-settings.php:482
+#: includes/wpmenucart-settings.php:524 includes/wpmenucart-settings.php:563
+#: includes/wpmenucart-settings.php:600
+msgid "This feature only available in"
+msgstr "Ця функція доступна лише в"
+
+#: includes/wpmenucart-settings.php:373
+msgid "Customize my CSS!"
+msgstr "Змінити мій CSS!"
+
+#: includes/wpmenucart-settings.php:371
+msgid "We can do that for you! Just click the button below to check it out."
+msgstr "Ми можемо зробити це для вас! Просто натисніть кнопку нижче, щоб побачити це."
+
+#: includes/wpmenucart-settings.php:369
+msgid "Want your CSS customized?"
+msgstr "Хочете налаштувати свій CSS ?"
+
+#: includes/wpmenucart-settings.php:366
+msgid "Buy Now"
+msgstr "Придбати зараз"
+
+#: includes/wpmenucart-settings.php:365
+msgid "Need to see more? %sClick here%s to check it out. Add a product to your cart and watch what happens!"
+msgstr "Хочете побачити більше? %sНатисніть тут%s щоб переглянути. Додайте товар до кошика і подивіться, що станеться!"
+
+#: includes/wpmenucart-settings.php:361
+msgid "Put the cart anywhere with the [wpmenucart] shortcode"
+msgstr "За допомогою короткого коду [wpmenucart] помістіть кошик будь-де"
+
+#: includes/wpmenucart-settings.php:360
+msgid "Automatic updates on any great new features"
+msgstr "Автоматичні оновлення для будь-яких чудових нових функцій"
+
+#: includes/wpmenucart-settings.php:359
+msgid "Ability to add a custom css class"
+msgstr "Можливість додавання користувацького класу CSS"
+
+#: includes/wpmenucart-settings.php:358
+msgid "Ability to add cart + flyout to an <strong>unlimited</strong> amount of menus"
+msgstr "Можливість додавання кошика + переміщення до <strong>необмеженої</strong> кількості меню"
+
+#: includes/wpmenucart-settings.php:357
+msgid "A fully featured cart details flyout"
+msgstr "Повнофункціональна плаваюча деталізація кошика"
+
+#: includes/wpmenucart-settings.php:356
+msgid "A choice of 14 icons"
+msgstr "Вибір з 14 значків"
+
+#: includes/wpmenucart-settings.php:353
+msgid "Go Pro with Menu Cart Pro. Includes all the great standard features found in this free version plus:"
+msgstr "Станьте профі з Menu Cart Pro. Включає всі чудові стандартні функції, знайдені в цій безкоштовній версії плюс:"
+
+#: includes/wpmenucart-settings.php:351
+msgid "Sell In Style With Menu Cart Pro!"
+msgstr "Продавайте стильно з Menu Cart Pro!"
+
+#: includes/wpmenucart-settings.php:338
+msgid "Top Notch Support"
+msgstr "Підтримка за вищим розрядом"
+
+#: includes/wpmenucart-settings.php:337
+msgid "Access to Shortcode"
+msgstr "Доступ до коротких кодів"
+
+#: includes/wpmenucart-settings.php:336
+msgid "Choice of 14 icons"
+msgstr "Вибір з 14 значків"
+
+#: includes/wpmenucart-settings.php:335
+msgid "Unlimited Menus"
+msgstr "Необмежені меню"
+
+#: includes/wpmenucart-settings.php:312
+msgid "WP Menu Cart"
+msgstr "WP Menu Cart"
+
+#: includes/wpmenucart-settings.php:259
+msgid "Settings"
+msgstr "Налаштування"
+
+#: includes/wpmenucart-settings.php:247
+msgid "Menu Cart Setup"
+msgstr "Налаштування Menu Cart"
+
+#: includes/wpmenucart-settings.php:246 includes/wpmenucart-settings.php:689
+msgid "Menu Cart"
+msgstr "Menu Cart"
+
+#: includes/wpmenucart-settings.php:220
+msgid "Enable this option to use the built-in AJAX / live update functions instead of the default ones from WooCommerce or Jigoshop"
+msgstr "Увімкніть цей параметр для використання вбудованих функцій оновлення AJAX / live замість стандартних за від WooCommerce або Jigoshop."
+
+#: includes/wpmenucart-settings.php:213
+msgid "Use Built-in AJAX"
+msgstr "Використовуйте вбудований AJAX"
+
+#: includes/wpmenucart-settings.php:199
+msgid "Use WPML String Translation"
+msgstr "Використовуйте переклад рядків WPML"
+
+#: includes/wpmenucart-settings.php:185
+msgid "Enter a custom CSS class (optional)"
+msgstr "Введіть користувацький CSS клас (необов'язково)."
+
+#: includes/wpmenucart-settings.php:178
+msgid "Default Menu Alignment."
+msgstr "Типове вирівнювання в меню."
+
+#: includes/wpmenucart-settings.php:177
+msgid "Align Right."
+msgstr "Вирівняти проворуч."
+
+#: includes/wpmenucart-settings.php:176
+msgid "Align Left."
+msgstr "Вирівняти ліворуч."
+
+#: includes/wpmenucart-settings.php:168
+msgid "Select the alignment that looks best with your menu."
+msgstr "Виберіть вирівнювання, яке виглядає найкраще з вашим меню."
+
+#: includes/wpmenucart-settings.php:161
+msgid "Both price and items."
+msgstr "І ціна, і товари."
+
+#: includes/wpmenucart-settings.php:160
+msgid "Price Only."
+msgstr "Лише ціна."
+
+#: includes/wpmenucart-settings.php:159
+msgid "Items Only."
+msgstr "Лише товари."
+
+#: includes/wpmenucart-settings.php:151
+msgid "What would you like to display in the menu?"
+msgstr "Що б ви хотіли відобразити в меню?"
+
+#: includes/wpmenucart-settings.php:122
+msgid "Choose a cart icon."
+msgstr "Виберіть значок кошика."
+
+#: includes/wpmenucart-settings.php:96
+msgid "Set maximum number of products to display in fly-out"
+msgstr "Встановіть максимальну кількість товарів, що відображаються в плаваючому кошику"
+
+#: includes/wpmenucart-settings.php:83
+msgid "Display cart contents in menu fly-out."
+msgstr "Відображати вміст кошика в плаваючому меню"
+
+#: includes/wpmenucart-settings.php:71
+msgid "Display shopping cart icon."
+msgstr "Показати значок кошика."
+
+#: includes/wpmenucart-settings.php:59
+msgid "Always display cart, even if it's empty"
+msgstr "Завжди показувати кошик, навіть якщо він порожній"
+
+#: includes/wpmenucart-settings.php:46
+msgid "Select the menu(s) in which you want to display the Menu Cart"
+msgstr "Виберіть меню, в якому ви хочете відобразити цей кошик"
+
+#: includes/wpmenucart-settings.php:33
+msgid "Select which e-commerce plugin you would like Menu Cart to work with"
+msgstr "Виберіть, з яким плагіном для електронної торгівлі ви хотіли, щоб працював цей кошик"
+
+#: includes/wpmenucart-settings.php:26
+msgid "Plugin settings"
+msgstr "Налаштування плагіну"
+
+#: includes/wpmenucart-eshop.php:40
+msgid "2"
+msgstr "2"
+
+#: includes/wpmenucart-eshop.php:40
+msgid "%1$s%2$s"
+msgstr "%1$s%2$s"

@@ -1,0 +1,308 @@
+# Translation of Plugins - Limit Login Attempts Reloaded - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Limit Login Attempts Reloaded - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-30 16:01:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Limit Login Attempts Reloaded - Stable (latest release)\n"
+
+#: views/app-widgets/acl-rules.php:8 views/app-widgets/acl-rules.php:35
+msgid "Documentation"
+msgstr "Документація"
+
+#: views/options-page.php:51 views/tab-dashboard.php:304
+msgid "Help"
+msgstr "Допомога"
+
+#: views/tab-dashboard.php:340
+msgid "Country"
+msgstr "Країна"
+
+#: views/tab-dashboard.php:269
+msgid "Notifications"
+msgstr "Сповіщення"
+
+#: views/tab-dashboard.php:295
+msgid "Tools"
+msgstr "Інструменти"
+
+#: views/onboarding-popup.php:57 views/tab-dashboard.php:283
+msgid "Learn More"
+msgstr "Дізнатись більше"
+
+#: views/app-widgets/acl-rules.php:27 views/app-widgets/acl-rules.php:54
+#: views/app-widgets/country-access-rules.php:18
+msgid "Add"
+msgstr "Додати"
+
+#: views/app-widgets/event-log.php:23
+msgid "Time"
+msgstr "Час"
+
+#: views/app-widgets/acl-rules.php:16 views/app-widgets/acl-rules.php:43
+msgid "Action"
+msgstr "Дія"
+
+#: views/app-widgets/active-lockouts.php:18 views/app-widgets/event-log.php:24
+msgid "IP"
+msgstr "IP"
+
+#: views/tab-settings.php:193
+msgid "Submit"
+msgstr "Відправити"
+
+#: views/app-widgets/event-log.php:32
+msgid "Actions"
+msgstr "Дії"
+
+#: views/app-widgets/acl-rules.php:24 views/app-widgets/acl-rules.php:51
+msgid "Pass"
+msgstr "Успіх"
+
+#: views/app-widgets/acl-rules.php:15 views/app-widgets/acl-rules.php:42
+#: views/app-widgets/event-log.php:27
+msgid "Rule"
+msgstr "Правило"
+
+#: views/app-widgets/acl-rules.php:23 views/app-widgets/acl-rules.php:50
+msgid "Allow"
+msgstr "Дозволити"
+
+#: views/options-page.php:46 views/options-page.php:48
+msgid "Logs"
+msgstr "Журнали"
+
+#: core/LimitLoginAttempts.php:352 views/options-page.php:43
+msgid "Dashboard"
+msgstr "Майстерня"
+
+#: core/LimitLoginAttempts.php:1807 core/LimitLoginAttempts.php:1880
+msgid "Settings saved."
+msgstr "Налаштування збережені."
+
+#: views/tab-settings.php:36
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+#: core/LimitLoginAttempts.php:353 views/options-page.php:44
+msgid "Settings"
+msgstr "Налаштування"
+
+#: views/tab-settings.php:172
+msgid "Specify the origins you trust in order of priority, separated by commas. We strongly recommend that you <b>do not</b> use anything other than REMOTE_ADDR since other origins can be easily faked. Examples: HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+msgstr ""
+"Вкажіть джерела, яким ви довіряєте, в порядку пріоритету, розділені комами. Ми настійно рекомендуємо вам <b>не використовувати</b> нічого крім REMOTE_ADDR \n"
+"оскільки інші джерела можуть бути легко підроблені. Приклади: HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+
+#: views/tab-settings.php:168
+msgid "Trusted IP Origins"
+msgstr "Надійні IP Origins"
+
+#: views/tab-settings.php:91
+msgid "after"
+msgstr "після"
+
+#: views/tab-settings.php:88
+msgid "Email to"
+msgstr "Надіслати по email"
+
+#: core/LimitLoginAttempts.php:1496
+msgid "<strong>ERROR</strong>: Incorrect email address or password."
+msgstr "<strong>ПОМИЛКА</strong> : неправильна адреса електронної пошти або пароль."
+
+#: views/tab-settings.php:68
+msgid "GDPR compliance"
+msgstr "Дотримання GDPR"
+
+#: views/tab-logs-local.php:66 views/tab-logs-local.php:80
+msgid "One IP or IP range (1.2.3.4-5.6.7.8) per line"
+msgstr "Один IP або IP діапазон (1.2.3.4-5.6.7.8) на рядок"
+
+#: views/tab-settings.php:153
+msgid "minutes lockout"
+msgstr "хвилини блокування"
+
+#: views/tab-settings.php:149
+msgid "allowed retries"
+msgstr "дозволені спроби"
+
+#: views/app-widgets/event-log.php:25 views/tab-logs-local.php:123
+msgid "Gateway"
+msgstr "Шлюз"
+
+#: views/tab-logs-local.php:121
+msgctxt "Internet address"
+msgid "IP"
+msgstr "IP"
+
+#: views/tab-logs-local.php:120
+msgid "Date"
+msgstr "Дата"
+
+#: views/tab-logs-local.php:108
+msgid "Clear Log"
+msgstr "Очистити журнал"
+
+#: views/tab-settings.php:85
+msgid "Notify on lockout"
+msgstr "Повідомити про блокування"
+
+#: core/LimitLoginAttempts.php:1744
+msgid "Reset lockout count"
+msgstr "Скинути кількість блокувань"
+
+#: views/tab-settings.php:144
+msgid "Lockout"
+msgstr "Блокування"
+
+#: views/tab-logs-local.php:35
+msgid "Reset Counter"
+msgstr "Скинути лічильник"
+
+#: views/tab-logs-local.php:26
+msgid "Statistics"
+msgstr "Статистика"
+
+#: core/LimitLoginAttempts.php:538 core/LimitLoginAttempts.php:945
+#: core/LimitLoginAttempts.php:1444
+msgid "Please try again in %d minute."
+msgid_plural "Please try again in %d minutes."
+msgstr[0] "Будь ласка, спробуйте ще раз через %d хвилину."
+msgstr[1] "Будь ласка, спробуйте ще раз через %d хвилини."
+msgstr[2] "Будь ласка, спробуйте ще раз через %d хвилин."
+
+#: core/LimitLoginAttempts.php:536 core/LimitLoginAttempts.php:943
+#: core/LimitLoginAttempts.php:1442
+msgid "Please try again in %d hour."
+msgid_plural "Please try again in %d hours."
+msgstr[0] "Будь ласка, спробуйте ще раз через %d годину."
+msgstr[1] "Будь ласка, спробуйте ще раз через %d години."
+msgstr[2] "Будь ласка, спробуйте ще раз через %d годин."
+
+#: views/tab-logs-local.php:51
+msgid "%d IP is currently blocked from trying to log in"
+msgstr "%d IP наразі заблоковано при спробі входу"
+
+#: views/tab-settings.php:46
+msgid "Use global settings"
+msgstr "Використовувати глобальні налаштування"
+
+#: views/tab-settings.php:44
+msgid "If disabled, the global settings will be forcibly applied to the entire network."
+msgstr "Якщо вимкнено, глобальні налаштування будуть примусово застосовані до всієї мережі."
+
+#: views/tab-settings.php:43
+msgid "Let network sites use their own settings"
+msgstr "Нехай сайти мережі використовують свої власні налаштування"
+
+#: views/tab-logs-local.php:70 views/tab-logs-local.php:84
+msgid "One Username per line"
+msgstr "Одне ім'я користувача на рядок"
+
+#: core/LimitLoginAttempts.php:1513
+msgid "WC Error"
+msgstr "Помилка WC"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: core/LimitLoginAttempts.php:188 views/options-page.php:40
+msgid "Limit Login Attempts Reloaded"
+msgstr "Спроби обмеження входу в систему перезавантаження"
+
+#: views/tab-logs-local.php:122
+msgid "Tried to log in as"
+msgstr "Намагалися увійти як"
+
+#: views/tab-logs-local.php:103
+msgid "Lockout log"
+msgstr "Журнал блокування"
+
+#: views/tab-settings.php:163
+msgid "hours until retries are reset"
+msgstr "годин, поки повторні спроби не скинуті"
+
+#: views/tab-settings.php:160
+msgid "hours"
+msgstr "години"
+
+#: views/tab-logs-local.php:49
+msgid "Restore Lockouts"
+msgstr "Відновлення блокування"
+
+#: views/tab-logs-local.php:46
+msgid "Active lockouts"
+msgstr "Активні блокування"
+
+#: core/LimitLoginAttempts.php:1737
+msgid "Cleared IP log"
+msgstr "Очищений журнал IP"
+
+#: core/LimitLoginAttempts.php:1498
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>ПОМИЛКА</strong> : неправильне ім'я користувача або пароль."
+
+#: core/LimitLoginAttempts.php:529 core/LimitLoginAttempts.php:938
+#: core/LimitLoginAttempts.php:1426
+msgid "<strong>ERROR</strong>: Too many failed login attempts."
+msgstr "<strong>ПОМИЛКА</strong> : надто багато невдалих спроб входу."
+
+#: core/LimitLoginAttempts.php:1434
+msgid "Please try again later."
+msgstr "Будь ласка, повторіть спробу пізніше."
+
+#: views/tab-settings.php:94
+msgid "lockouts"
+msgstr "блокування"
+
+#: core/LimitLoginAttempts.php:1122
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d хвилина"
+msgstr[1] "%d хвилини"
+msgstr[2] "%d хвилин"
+
+#: core/LimitLoginAttempts.php:1116
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d година"
+msgstr[1] "%d години"
+msgstr[2] "%d годин"
+
+#: views/tab-logs-local.php:37
+msgid "%d lockout since last reset"
+msgid_plural "%d lockouts since last reset"
+msgstr[0] "%d блокування з моменту останнього скидання"
+msgstr[1] "%d блокування з моменту останнього скидання"
+msgstr[2] "%d блокувань з моменту останнього скидання"
+
+#: views/tab-logs-local.php:39
+msgid "No lockouts yet"
+msgstr "Блокувань поки немає"
+
+#: views/tab-settings.php:157
+msgid "lockouts increase lockout time to"
+msgstr "блокування збільшують час блокування до"
+
+#: core/LimitLoginAttempts.php:1751
+msgid "Cleared current lockouts"
+msgstr "Очистити поточні блокування"
+
+#: views/tab-logs-local.php:31
+msgid "Total lockouts"
+msgstr "Всього блокувань"
+
+#: core/LimitLoginAttempts.php:2751
+msgid "<strong>%d</strong> attempt remaining."
+msgid_plural "<strong>%d</strong> attempts remaining."
+msgstr[0] "Залишилося <strong>%d</strong> спроба увійти."
+msgstr[1] "Залишилося <strong>%d</strong> спроби увійти."
+msgstr[2] "Залишилося <strong>%d</strong> спроб увійти."
+
+#: views/tab-logs-local.php:77
+msgid "Blocklist"
+msgstr "Список блокування"

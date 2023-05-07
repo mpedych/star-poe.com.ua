@@ -1,0 +1,321 @@
+# Webalizer V2.23-08 Incremental Data - 05/04/2023 04:18:30
+2023 5 4 4 18 30
+114 98 30 35 5 17 3957123 32 21 0
+1 1 33 1 4
+14 10 455154 6 8 4
+56 47 1967236 15 14 10
+43 40 1454709 11 9 6
+1 1 80024 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+4 2 134172 0
+6 4 212128 2
+5 3 214177 1
+0 0 0 0
+0 0 0 0
+2 2 77954 1
+0 0 0 0
+1 1 89644 1
+0 0 0 0
+5 4 124100 1
+30 30 1090537 4
+2 1 77954 1
+2 2 77954 1
+38 35 1245374 8
+0 0 0 0
+0 0 0 0
+4 3 155906 3
+11 7 301316 7
+2 2 77953 1
+0 0 0 0
+2 2 77954 1
+0 0 0 0
+0
+0
+0
+98
+0
+0
+0
+0
+0
+0
+0
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/uploads/2023/03/v2_starlink_rectangular_dishy-100x100.png
+0 1 0 5182 0 0
+/wp-content/plugins/woocommerce-menu-bar-cart/assets/js/wpmenucart-ajax-assist.min.js
+0 1 0 665 0 0
+/wp-content/themes/storefront/assets/css/base/gutenberg-blocks.css
+0 2 0 85894 0 0
+/wp-content/uploads/2023/03/v2_starlink_rectangular_dishy-324x324.png
+0 1 0 38894 0 0
+/wp-content/plugins/woocommerce-menu-bar-cart/assets/css/wpmenucart-main.min.css
+0 2 0 2004 0 0
+/wp-json/wp/v2/users/
+0 1 0 6807 0 0
+/wp-includes/css/classic-themes.min.css
+0 2 0 582 0 0
+/wp-content/themes/storefront/assets/css/woocommerce/woocommerce.css
+0 2 0 117170 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js
+0 2 0 4278 0 0
+/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js
+0 2 0 1064 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
+0 2 0 6377 0 0
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css
+0 2 0 20870 0 0
+/wp-json/oembed/1.0/embed
+0 1 0 2443 0 0
+/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js
+0 2 0 6224 0 0
+/wp-content/plugins/speed-contact-bar/public/assets/images/phone_dark.svg
+0 1 0 809 0 0
+/wp-content/themes/storefront/assets/css/base/icons.css
+0 2 0 160534 0 0
+/wp-content/plugins/contact-form-7/includes/swv/js/
+0 2 0 20482 2 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 2 0 26848 0 0
+/wp-content/plugins/woocommerce-ajax-filters/berocket/assets/css/font-awesome.min.css
+0 2 0 61576 0 0
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+0 2 0 5718 0 0
+/product/rj45-cat6-extender/
+0 1 0 89644 1 0
+/wp-content/themes/storefront/assets/js/footer.min.js
+0 3 0 2238 0 0
+/wp-content/themes/storefront/assets/js/navigation.min.js
+0 2 0 6052 0 0
+/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/fullmain.min.css
+0 2 0 305626 0 0
+/wp-includes/js/jquery/jquery.min.js
+0 2 0 179630 0 0
+/
+0 19 0 1339481 16 0
+/wp-content/themes/storefront/style.css
+0 2 0 80996 0 0
+/wp-content/themes/storefront/assets/fonts/fa-solid-900.woff2
+0 1 0 79444 0 0
+/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js
+0 2 0 3668 0 0
+/robots.txt
+0 1 0 173 0 0
+/wp-cron.php
+0 21 0 0 0 0
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css
+0 2 0 519233 0 0
+/wp-content/plugins/contact-form-7/includes/js/
+0 2 0 25886 1 0
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
+0 2 0 19010 0 0
+/wp-includes/css/dist/block-library/style.min.css
+0 2 0 195034 0 0
+# End Of Table - urls
+# -sites- (monthly)
+198.235.24.49
+0 1 1 77953 1 1683057688
+/
+crawl-66-249-66-66.googlebot.com
+0 1 1 2859 0 0
+-
+crawl-66-249-66-40.googlebot.com
+0 3 3 311033 1 1683042792
+/
+ec2-34-220-254-250.us-west-2.compute.amazonaws.com
+0 1 1 80024 1 1683128968
+/
+ec2-52-31-103-15.eu-west-1.compute.amazonaws.com
+0 2 1 80024 1 1683142100
+/
+ec2-54-201-111-237.us-west-2.compute.amazonaws.com
+0 1 0 0 0 0
+-
+vmi490679.contaboserver.net
+0 3 2 155906 1 1683053191
+/
+rate-limited-proxy-66-249-92-129.google.com
+0 6 6 363250 1 1683117004
+/
+ec2-34-221-29-143.us-west-2.compute.amazonaws.com
+0 1 1 77954 1 1682949981
+/
+crawl-66-249-66-14.googlebot.com
+0 10 10 386946 0 0
+-
+rate-limited-proxy-66-249-92-14.google.com
+0 19 19 673774 1 1683117030
+/
+crawl-66-249-66-1.googlebot.com
+0 1 0 0 0 0
+-
+hosting31.ukrnames.com
+0 21 21 0 0 0
+-
+crawl-66-249-66-65.googlebot.com
+0 6 6 50142 1 1683042803
+/wp-content/plugins/contact-form-7/includes/js/
+ec2-34-221-113-232.us-west-2.compute.amazonaws.com
+0 1 0 0 0 0
+-
+199.244.88.219
+0 1 1 80024 1 1683173910
+/
+rate-limited-proxy-66-249-92-39.google.com
+0 2 2 42332 0 0
+-
+scanner-26.ch1.censys-scanner.com
+0 4 3 124100 1 1683115039
+/
+ec2-34-221-2-90.us-west-2.compute.amazonaws.com
+0 1 1 77954 1 1682981223
+/
+57.128.83.46
+0 7 1 480453 1 1682999318
+/
+crawl-66-249-66-39.googlebot.com
+0 6 6 154605 1 1683042808
+/
+crawl-66-249-66-15.googlebot.com
+0 3 3 102534 0 0
+-
+ec2-35-90-94-113.us-west-2.compute.amazonaws.com
+0 1 1 80024 1 1683126262
+/
+fwdproxy-lla-004.fbsv.net
+0 1 1 89644 1 1683019731
+/product/rj45-cat6-extender/
+rate-limited-proxy-66-249-92-15.google.com
+0 1 1 10435 0 0
+-
+crawl-66-249-66-32.googlebot.com
+0 1 0 0 1 1683042792
+/
+ec2-35-88-123-159.us-west-2.compute.amazonaws.com
+0 1 1 77954 1 1683014104
+/
+ec2-54-212-42-253.us-west-2.compute.amazonaws.com
+0 1 1 77954 1 1682949199
+/
+57.128.84.67
+0 6 3 221292 1 1682968142
+/wp-json/wp/v2/users/
+ec2-35-91-89-16.us-west-2.compute.amazonaws.com
+0 1 1 77953 1 1683041589
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+199.244.88.219
+0 1 1 80024 1 1683173910
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://star-poe.com.ua/
+0 52
+- (Direct Request)
+0 59
+http://star-poe.com.ua/wp-content/themes/storefront/assets/css/base/icons.css
+0 1
+http://www.star-poe.com.ua
+0 1
+https://star-poe.com.ua/shop/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 11; ONEPLUS A6013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Linux; Android 12; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.57 Mobile Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.142 Mobile
+0 29
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 4
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+AdsBot-Google (+http://www.google.com/adsbot.html)
+0 28
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 1
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 1
+WordPress/6.2; https://star-poe.com.ua
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

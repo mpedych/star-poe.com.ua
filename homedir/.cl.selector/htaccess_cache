@@ -1,0 +1,3 @@
+[/home/starp56/public_html]
+htaccess_list = /home/starp56/public_html/wp-content/uploads/woocommerce_uploads/.htaccess,/home/starp56/public_html/wp-content/uploads/wc-logs/.htaccess,/home/starp56/public_html/wp-content/plugins/akismet/.htaccess,/home/starp56/public_html/.htaccess
+

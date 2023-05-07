@@ -1,0 +1,378 @@
+Return-Path: <maksympedych@gmail.com>
+Delivered-To: starp56@hosting31.ukrnames.com
+Received: from hosting31.ukrnames.com
+	by hosting31.ukrnames.com with LMTP
+	id uL/5EF4tMGQaWAAAm59mNw
+	(envelope-from <maksympedych@gmail.com>)
+	for <starp56@hosting31.ukrnames.com>; Fri, 07 Apr 2023 17:49:02 +0300
+Return-path: <maksympedych@gmail.com>
+Envelope-to: admin@star-poe.com.ua
+Delivery-date: Fri, 07 Apr 2023 17:49:02 +0300
+Received: from mail-wm1-f42.google.com ([209.85.128.42]:55002)
+	by hosting31.ukrnames.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.96)
+	(envelope-from <maksympedych@gmail.com>)
+	id 1pknOg-0005qj-0U
+	for admin@star-poe.com.ua;
+	Fri, 07 Apr 2023 17:49:02 +0300
+Received: by mail-wm1-f42.google.com with SMTP id s13so24135374wmr.4
+        for <admin@star-poe.com.ua>; Fri, 07 Apr 2023 07:48:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112; t=1680878898; x=1683470898;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=a5Fsovrhth9aSvFry06p0FnWdWzMtCrxY2wSFTqxdJM=;
+        b=dJAZX7gcIV79kmMqzaN3ez8hVhf9pBBaeYk9HKckCrqRMuUHEPDp/eCen8H3q1FDnY
+         K5/46GshvRXL+qm8yZnQv91lOyZxSYEu6sRrXVVRL7cqOyFh3AqawjJMk1dNqDAJV/gN
+         /n+9QhUOgdBHB/cKf3F01IJBqBpRhD1jhEDfZOwvDMJZsb1Gy3nxSv0k7eWUVmy1nzEo
+         IyIVPDCRkm2plfjXup9BiivHjWq1/ZhAVHq30LGeyFVwxRvHxfpuuMmkFcAOv43Q2WzZ
+         ZZwAtoXHFmRJoAiDB51FmO/88uyFJ7QRiqyzb38fDBRPWiVOYjXggtHDs2aMHcQXDNfn
+         /IUQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112; t=1680878898; x=1683470898;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=a5Fsovrhth9aSvFry06p0FnWdWzMtCrxY2wSFTqxdJM=;
+        b=AyiJ+ElN603v0QXteYiTrdq8jTF1TLLxyQ5tY4FFNpYoQ3khzE0dUNg66ML+TUdTqA
+         da0VGinN/6OPpC0AUgdTTT8008/+KEmNY3MAEmFzXf3q1HOP7gWkIPRNAC3z1mqzZV+W
+         1geR1AhGjya3ir34v0l61c1J0IzBrqBNIssvSvRhQqsNQr++lt2R8MaPGxQvk0w/cO5C
+         eZ52UElYbS3a2LzwFrE4jwzIaW0H85XuVgseVpzpXglbbsJQVZbJ0sqs13LS/mbXHijp
+         t2+hgzZzWgCD0XTywxB+tAkhUXpfK6uv6jBxXhtkAt2lc/WztUCQkjpHBk+iBw2HX3dO
+         E+Lg==
+X-Gm-Message-State: AAQBX9cFulGfyi2opnz9TjvOiGXa4h6eLIeD0dlGEUMbH4kMtXIQ9zXL
+	g2w25shyNA9zRQLXYZm3Udea2SUPxBIxNu/Y2X3+GQZ8
+X-Google-Smtp-Source: AKy350aNqh86FvKQnHC18whoBgtUsSolJboHUywqdeDf2iBd/gXW9eqznYbkvVFJlOvf3+TkkEvoCxwg9bcgAkGMUcU=
+X-Received: by 2002:a05:600c:364f:b0:3ed:d6cb:d025 with SMTP id
+ y15-20020a05600c364f00b003edd6cbd025mr429949wmq.0.1680878898222; Fri, 07 Apr
+ 2023 07:48:18 -0700 (PDT)
+MIME-Version: 1.0
+References: <3l7WNn8MJKa0bJzJeFIbHX2s5ArMTBryslgRHvIlDs@star-poe.com.ua>
+In-Reply-To: <3l7WNn8MJKa0bJzJeFIbHX2s5ArMTBryslgRHvIlDs@star-poe.com.ua>
+From: Maksym Pedych <maksympedych@gmail.com>
+Date: Fri, 7 Apr 2023 17:48:07 +0300
+Message-ID: <CAH+euMwktwxMb1Vf03dsW7P7_PhsJwJv=xX7_co2G=shReRDpw@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IFtTdGFybGluayBQb0VdOiDQndC+0LLQtSDQt9Cw0LzQvtCy0LvQtdC90L3RjyAjMQ==?=
+	=?UTF-8?B?NDY=?=
+To: =?UTF-8?B?0JDQu9GM0YLQtdGA0L3QsNGC0LjQstC90LUg0LbQuNCy0LvQtdC90L3RjyBTdGFybGluaw==?= <admin@star-poe.com.ua>
+Content-Type: multipart/alternative; boundary="000000000000a3995f05f8c01da7"
+X-Spam-Status: No, score=0.3
+X-Spam-Score: 3
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hosting31.ukrnames.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Перевірка чт, 6 квіт. 2023 р. о 14:43 Альтернативне
+    живлення Starlink < пише: > Нове замовлення: #146
+    > > Ви отримали таке замовлення від Артем
+    Демьяненко: > [Замовлення #146] > <https://star-poe.com.ua/wp-admin/
+    [...] 
+ Content analysis details:   (0.3 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: woocommerce.com]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [maksympedych[at]gmail.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+X-Spam-Flag: NO
+
+--000000000000a3995f05f8c01da7
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+0J/QtdGA0LXQstGW0YDQutCwDQoNCtGH0YIsIDYg0LrQstGW0YIuIDIwMjPigK/RgC4g0L4gMTQ6
+NDMg0JDQu9GM0YLQtdGA0L3QsNGC0LjQstC90LUg0LbQuNCy0LvQtdC90L3RjyBTdGFybGluayA8
+DQphZG1pbkBzdGFyLXBvZS5jb20udWE+INC/0LjRiNC1Og0KDQo+INCd0L7QstC1INC30LDQvNC+
+0LLQu9C10L3QvdGPOiAjMTQ2DQo+DQo+INCS0Lgg0L7RgtGA0LjQvNCw0LvQuCDRgtCw0LrQtSDQ
+t9Cw0LzQvtCy0LvQtdC90L3RjyDQstGW0LQg0JDRgNGC0LXQvCDQlNC10LzRjNGP0L3QtdC90LrQ
+vjoNCj4gW9CX0LDQvNC+0LLQu9C10L3QvdGPICMxNDZdDQo+IDxodHRwczovL3N0YXItcG9lLmNv
+bS51YS93cC1hZG1pbi9wb3N0LnBocD9wb3N0PTE0NiZhY3Rpb249ZWRpdD4NCj4gKDA2LjA0LjIw
+MjMpDQo+INCi0L7QstCw0YAg0JrRltC70YzQutGW0YHRgtGMINCm0ZbQvdCwDQo+INCf0LDRgdC4
+0LLQvdC40LkgUG9FINGW0L3QttC10LrRgtC+0YAg0LTQu9GPIFN0YXJsaW5rIFR5Y29uIFBPRS1J
+TkotMTAwMC1XVCAxIDExMDAsMDAg4oK0DQo+INCg0LDQt9C+0Lw6IDExMDAsMDAg4oK0DQo+INCU
+0L7RgdGC0LDQstC60LA6INCd0L7QstCwINCf0L7RiNGC0LANCj4g0KHQv9C+0YHRltCxINC+0L/Q
+u9Cw0YLQuDog0JPQvtGC0ZbQstC60LAg0L/RgNC4INC+0YLRgNC40LzQsNC90L3Rlg0KPiDQktGB
+0YzQvtCz0L46IDExMDAsMDAg4oK0DQo+INCf0LvQsNGC0ZbQttC90LAg0LDQtNGA0LXRgdCwINCQ
+0YDRgtC10Lwg0JTQtdC80YzRj9C90LXQvdC60L4NCj4g0JLRltC00LTRltC70LXQvdC90Y8g4oSW
+ODg6INCy0YPQuy4g0KHQsNCy0LrRltC90LAsIDINCj4g0JTQvdGW0L/RgNC+DQo+ICszODA5MzUz
+NDE0ODYNCj4NCj4g0JLRltGC0LDRlNC80L4g0Lcg0L/RgNC+0LTQsNC20LXQvC4NCj4g0J7QsdGA
+0L7QsdC70Y/QudGC0LUg0YHQstC+0Zcg0LfQsNC80L7QstC70LXQvdC90Y8g0L3QsCDRhdC+0LTR
+gy4g0J7RgtGA0LjQvNCw0YLQuCDQt9Cw0YHRgtC+0YHRg9C90L7Qug0KPiA8aHR0cHM6Ly93b29j
+b21tZXJjZS5jb20vbW9iaWxlP2Jsb2dfaWQ9MCZ1dG1fY2FtcGFpZ249ZGVlcGxpbmtzX3Byb21v
+dGVfYXBwJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1zdGFyLXBvZS5jb20udWEmdXRtX3Rl
+cm09MD4uDQo+DQo+DQo+IFN0YXJsaW5rIFBvRSDigJQgQnVpbHQgd2l0aCBXb29Db21tZXJjZSA8
+aHR0cHM6Ly93b29jb21tZXJjZS5jb20+DQo+DQo=
+--000000000000a3995f05f8c01da7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">=D0=9F=D0=B5=D1=80=D0=B5=D0=B2=D1=96=D1=80=D0=BA=D0=B0=C2=
+=A0</div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_att=
+r">=D1=87=D1=82, 6 =D0=BA=D0=B2=D1=96=D1=82. 2023=E2=80=AF=D1=80. =D0=BE 14=
+:43 =D0=90=D0=BB=D1=8C=D1=82=D0=B5=D1=80=D0=BD=D0=B0=D1=82=D0=B8=D0=B2=D0=
+=BD=D0=B5 =D0=B6=D0=B8=D0=B2=D0=BB=D0=B5=D0=BD=D0=BD=D1=8F Starlink &lt;<a =
+href=3D"mailto:admin@star-poe.com.ua">admin@star-poe.com.ua</a>&gt; =D0=BF=
+=D0=B8=D1=88=D0=B5:<br></div><blockquote class=3D"gmail_quote" style=3D"mar=
+gin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1=
+ex"><div class=3D"msg-3032113685896927791"><u></u>
+
+=09
+	=09
+	=09
+	=09
+=09
+
+	<div style=3D"background-color:rgb(247,247,247);padding:0px;text-align:cen=
+ter" bgcolor=3D"#f7f7f7">
+		<table width=3D"100%" id=3D"m_-3032113685896927791outer_wrapper" style=3D=
+"background-color:rgb(247,247,247)" bgcolor=3D"#f7f7f7">
+			<tbody><tr>
+				<td></td>
+				<td width=3D"600">
+					<div id=3D"m_-3032113685896927791wrapper" dir=3D"ltr" style=3D"margin:=
+0px auto;padding:70px 0px;width:100%;max-width:600px" width=3D"100%">
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100=
+%" width=3D"100%">
+							<tbody><tr>
+								<td align=3D"center" valign=3D"top">
+									<div id=3D"m_-3032113685896927791template_header_image">
+																			</div>
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" id=3D"m_-3032113685896927791template_container" style=3D"background-co=
+lor:rgb(255,255,255);border:1px solid rgb(222,222,222);border-radius:3px" b=
+gcolor=3D"#fff">
+										<tbody><tr>
+											<td align=3D"center" valign=3D"top">
+											=09
+												<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" id=3D"m_-3032113685896927791template_header" style=3D"background-=
+color:rgb(127,84,179);color:rgb(255,255,255);border-bottom:0px;font-weight:=
+bold;line-height:100%;vertical-align:middle;font-family:&quot;Helvetica Neu=
+e&quot;,Helvetica,Roboto,Arial,sans-serif;border-radius:3px 3px 0px 0px" bg=
+color=3D"#7f54b3">
+													<tbody><tr>
+														<td id=3D"m_-3032113685896927791header_wrapper" style=3D"padd=
+ing:36px 48px;display:block">
+															<h1 style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetic=
+a,Roboto,Arial,sans-serif;font-size:30px;font-weight:300;line-height:150%;m=
+argin:0px;text-align:left;color:rgb(255,255,255);background-color:inherit" =
+bgcolor=3D"inherit">=D0=9D=D0=BE=D0=B2=D0=B5 =D0=B7=D0=B0=D0=BC=D0=BE=D0=B2=
+=D0=BB=D0=B5=D0=BD=D0=BD=D1=8F: #146</h1>
+														</td>
+													</tr>
+												</tbody></table>
+											=09
+											</td>
+										</tr>
+										<tr>
+											<td align=3D"center" valign=3D"top">
+											=09
+												<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" id=3D"m_-3032113685896927791template_body">
+													<tbody><tr>
+														<td valign=3D"top" id=3D"m_-3032113685896927791body_content" =
+style=3D"background-color:rgb(255,255,255)" bgcolor=3D"#fff">
+														=09
+															<table border=3D"0" cellpadding=3D"20" cellspacing=3D"0" wid=
+th=3D"100%">
+																<tbody><tr>
+																	<td valign=3D"top" style=3D"padding:48px 48px 32px">
+																		<div id=3D"m_-3032113685896927791body_content_inner" styl=
+e=3D"color:rgb(99,99,99);font-family:&quot;Helvetica Neue&quot;,Helvetica,R=
+oboto,Arial,sans-serif;font-size:14px;line-height:150%;text-align:left" ali=
+gn=3D"left">
+
+<p style=3D"margin:0px 0px 16px">=D0=92=D0=B8 =D0=BE=D1=82=D1=80=D0=B8=D0=
+=BC=D0=B0=D0=BB=D0=B8 =D1=82=D0=B0=D0=BA=D0=B5 =D0=B7=D0=B0=D0=BC=D0=BE=D0=
+=B2=D0=BB=D0=B5=D0=BD=D0=BD=D1=8F =D0=B2=D1=96=D0=B4 =D0=90=D1=80=D1=82=D0=
+=B5=D0=BC =D0=94=D0=B5=D0=BC=D1=8C=D1=8F=D0=BD=D0=B5=D0=BD=D0=BA=D0=BE:</p>
+
+<h2 style=3D"color:rgb(127,84,179);display:block;font-family:&quot;Helvetic=
+a Neue&quot;,Helvetica,Roboto,Arial,sans-serif;font-size:18px;font-weight:b=
+old;line-height:130%;margin:0px 0px 18px;text-align:left">
+	<a href=3D"https://star-poe.com.ua/wp-admin/post.php?post=3D146&amp;action=
+=3Dedit" style=3D"font-weight:normal;text-decoration:underline;color:rgb(12=
+7,84,179)" target=3D"_blank">[=D0=97=D0=B0=D0=BC=D0=BE=D0=B2=D0=BB=D0=B5=D0=
+=BD=D0=BD=D1=8F #146]</a> (06.04.2023)</h2>
+
+<div style=3D"margin-bottom:40px">
+	<table cellspacing=3D"0" cellpadding=3D"6" border=3D"1" style=3D"color:rgb=
+(99,99,99);border:1px solid rgb(229,229,229);vertical-align:middle;width:10=
+0%;font-family:&quot;Helvetica Neue&quot;,Helvetica,Roboto,Arial,sans-serif=
+" width=3D"100%">
+		<thead>
+			<tr>
+				<th scope=3D"col" style=3D"color:rgb(99,99,99);border:1px solid rgb(229=
+,229,229);vertical-align:middle;padding:12px;text-align:left" align=3D"left=
+">=D0=A2=D0=BE=D0=B2=D0=B0=D1=80</th>
+				<th scope=3D"col" style=3D"color:rgb(99,99,99);border:1px solid rgb(229=
+,229,229);vertical-align:middle;padding:12px;text-align:left" align=3D"left=
+">=D0=9A=D1=96=D0=BB=D1=8C=D0=BA=D1=96=D1=81=D1=82=D1=8C</th>
+				<th scope=3D"col" style=3D"color:rgb(99,99,99);border:1px solid rgb(229=
+,229,229);vertical-align:middle;padding:12px;text-align:left" align=3D"left=
+">=D0=A6=D1=96=D0=BD=D0=B0</th>
+			</tr>
+		</thead>
+		<tbody>
+				<tr>
+		<td style=3D"color:rgb(99,99,99);border:1px solid rgb(229,229,229);paddin=
+g:12px;text-align:left;vertical-align:middle;font-family:&quot;Helvetica Ne=
+ue&quot;,Helvetica,Roboto,Arial,sans-serif" align=3D"left">
+		=D0=9F=D0=B0=D1=81=D0=B8=D0=B2=D0=BD=D0=B8=D0=B9 PoE =D1=96=D0=BD=D0=B6=
+=D0=B5=D0=BA=D1=82=D0=BE=D1=80 =D0=B4=D0=BB=D1=8F Starlink Tycon POE-INJ-10=
+00-WT		</td>
+		<td style=3D"color:rgb(99,99,99);border:1px solid rgb(229,229,229);paddin=
+g:12px;text-align:left;vertical-align:middle;font-family:&quot;Helvetica Ne=
+ue&quot;,Helvetica,Roboto,Arial,sans-serif" align=3D"left">
+			1		</td>
+		<td style=3D"color:rgb(99,99,99);border:1px solid rgb(229,229,229);paddin=
+g:12px;text-align:left;vertical-align:middle;font-family:&quot;Helvetica Ne=
+ue&quot;,Helvetica,Roboto,Arial,sans-serif" align=3D"left">
+			<span>1100,00=C2=A0<span>=E2=82=B4</span></span>		</td>
+	</tr>
+=09
+		</tbody>
+		<tfoot>
+								<tr>
+						<th scope=3D"row" colspan=3D"2" style=3D"color:rgb(99,99,99);border-w=
+idth:4px 1px 1px;border-style:solid;border-color:rgb(229,229,229);vertical-=
+align:middle;padding:12px;text-align:left" align=3D"left">=D0=A0=D0=B0=D0=
+=B7=D0=BE=D0=BC:</th>
+						<td style=3D"color:rgb(99,99,99);border-width:4px 1px 1px;border-styl=
+e:solid;border-color:rgb(229,229,229);vertical-align:middle;padding:12px;te=
+xt-align:left" align=3D"left"><span>1100,00=C2=A0<span>=E2=82=B4</span></sp=
+an></td>
+					</tr>
+										<tr>
+						<th scope=3D"row" colspan=3D"2" style=3D"color:rgb(99,99,99);border:1=
+px solid rgb(229,229,229);vertical-align:middle;padding:12px;text-align:lef=
+t" align=3D"left">=D0=94=D0=BE=D1=81=D1=82=D0=B0=D0=B2=D0=BA=D0=B0:</th>
+						<td style=3D"color:rgb(99,99,99);border:1px solid rgb(229,229,229);ve=
+rtical-align:middle;padding:12px;text-align:left" align=3D"left">=D0=9D=D0=
+=BE=D0=B2=D0=B0 =D0=9F=D0=BE=D1=88=D1=82=D0=B0</td>
+					</tr>
+										<tr>
+						<th scope=3D"row" colspan=3D"2" style=3D"color:rgb(99,99,99);border:1=
+px solid rgb(229,229,229);vertical-align:middle;padding:12px;text-align:lef=
+t" align=3D"left">=D0=A1=D0=BF=D0=BE=D1=81=D1=96=D0=B1 =D0=BE=D0=BF=D0=BB=
+=D0=B0=D1=82=D0=B8:</th>
+						<td style=3D"color:rgb(99,99,99);border:1px solid rgb(229,229,229);ve=
+rtical-align:middle;padding:12px;text-align:left" align=3D"left">=D0=93=D0=
+=BE=D1=82=D1=96=D0=B2=D0=BA=D0=B0 =D0=BF=D1=80=D0=B8 =D0=BE=D1=82=D1=80=D0=
+=B8=D0=BC=D0=B0=D0=BD=D0=BD=D1=96</td>
+					</tr>
+										<tr>
+						<th scope=3D"row" colspan=3D"2" style=3D"color:rgb(99,99,99);border:1=
+px solid rgb(229,229,229);vertical-align:middle;padding:12px;text-align:lef=
+t" align=3D"left">=D0=92=D1=81=D1=8C=D0=BE=D0=B3=D0=BE:</th>
+						<td style=3D"color:rgb(99,99,99);border:1px solid rgb(229,229,229);ve=
+rtical-align:middle;padding:12px;text-align:left" align=3D"left"><span>1100=
+,00=C2=A0<span>=E2=82=B4</span></span></td>
+					</tr>
+							</tfoot>
+	</table>
+</div>
+
+<table id=3D"m_-3032113685896927791addresses" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" style=3D"width:100%;vertical-align:top;margin-bottom:40=
+px;padding:0px" width=3D"100%">
+	<tbody><tr>
+		<td valign=3D"top" width=3D"50%" style=3D"text-align:left;font-family:&qu=
+ot;Helvetica Neue&quot;,Helvetica,Roboto,Arial,sans-serif;border:0px;paddin=
+g:0px" align=3D"left">
+			<h2 style=3D"color:rgb(127,84,179);display:block;font-family:&quot;Helve=
+tica Neue&quot;,Helvetica,Roboto,Arial,sans-serif;font-size:18px;font-weigh=
+t:bold;line-height:130%;margin:0px 0px 18px;text-align:left">=D0=9F=D0=BB=
+=D0=B0=D1=82=D1=96=D0=B6=D0=BD=D0=B0 =D0=B0=D0=B4=D1=80=D0=B5=D1=81=D0=B0</=
+h2>
+
+			<address style=3D"padding:12px;color:rgb(99,99,99);border:1px solid rgb(=
+229,229,229)">
+				=D0=90=D1=80=D1=82=D0=B5=D0=BC =D0=94=D0=B5=D0=BC=D1=8C=D1=8F=D0=BD=D0=
+=B5=D0=BD=D0=BA=D0=BE<br>=D0=92=D1=96=D0=B4=D0=B4=D1=96=D0=BB=D0=B5=D0=BD=
+=D0=BD=D1=8F =E2=84=9688: =D0=B2=D1=83=D0=BB. =D0=A1=D0=B0=D0=B2=D0=BA=D1=
+=96=D0=BD=D0=B0, 2<br>=D0=94=D0=BD=D1=96=D0=BF=D1=80=D0=BE									<br><a h=
+ref=3D"tel:+380935341486" style=3D"color:rgb(127,84,179);font-weight:normal=
+;text-decoration:underline" target=3D"_blank">+380935341486</a>											<=
+/address>
+		</td>
+			</tr>
+</tbody></table>
+<p style=3D"margin:0px 0px 16px">=D0=92=D1=96=D1=82=D0=B0=D1=94=D0=BC=D0=BE=
+ =D0=B7 =D0=BF=D1=80=D0=BE=D0=B4=D0=B0=D0=B6=D0=B5=D0=BC.</p>
+=D0=9E=D0=B1=D1=80=D0=BE=D0=B1=D0=BB=D1=8F=D0=B9=D1=82=D0=B5 =D1=81=D0=B2=
+=D0=BE=D1=97 =D0=B7=D0=B0=D0=BC=D0=BE=D0=B2=D0=BB=D0=B5=D0=BD=D0=BD=D1=8F =
+=D0=BD=D0=B0 =D1=85=D0=BE=D0=B4=D1=83. <a href=3D"https://woocommerce.com/m=
+obile?blog_id=3D0&amp;utm_campaign=3Ddeeplinks_promote_app&amp;utm_medium=
+=3Demail&amp;utm_source=3Dstar-poe.com.ua&amp;utm_term=3D0" style=3D"color:=
+rgb(127,84,179);font-weight:normal;text-decoration:underline" target=3D"_bl=
+ank">=D0=9E=D1=82=D1=80=D0=B8=D0=BC=D0=B0=D1=82=D0=B8 =D0=B7=D0=B0=D1=81=D1=
+=82=D0=BE=D1=81=D1=83=D0=BD=D0=BE=D0=BA</a>.																		</div>
+																	</td>
+																</tr>
+															</tbody></table>
+														=09
+														</td>
+													</tr>
+												</tbody></table>
+											=09
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td align=3D"center" valign=3D"top">
+								=09
+									<table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"=
+100%" id=3D"m_-3032113685896927791template_footer">
+										<tbody><tr>
+											<td valign=3D"top" style=3D"padding:0px;border-radius:6px">
+												<table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=
+=3D"100%">
+													<tbody><tr>
+														<td colspan=3D"2" valign=3D"middle" id=3D"m_-3032113685896927=
+791credit" style=3D"border-radius:6px;border:0px;color:rgb(138,138,138);fon=
+t-family:&quot;Helvetica Neue&quot;,Helvetica,Roboto,Arial,sans-serif;font-=
+size:12px;line-height:150%;text-align:center;padding:24px 0px" align=3D"cen=
+ter">
+															<p style=3D"margin:0px 0px 16px">Starlink PoE =E2=80=94 Buil=
+t with <a href=3D"https://woocommerce.com" style=3D"color:rgb(127,84,179);f=
+ont-weight:normal;text-decoration:underline" target=3D"_blank">WooCommerce<=
+/a></p>
+														</td>
+													</tr>
+												</tbody></table>
+											</td>
+										</tr>
+									</tbody></table>
+								=09
+								</td>
+							</tr>
+						</tbody></table>
+					</div>
+				</td>
+				<td></td>
+			</tr>
+		</tbody></table>
+	</div>
+
+
+</div></blockquote></div>
+
+--000000000000a3995f05f8c01da7--

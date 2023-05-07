@@ -1,0 +1,180 @@
+Return-Path: <no_reply_support@trust-provider.com>
+Delivered-To: starp56@hosting31.ukrnames.com
+Received: from hosting31.ukrnames.com
+	by hosting31.ukrnames.com with LMTP
+	id QExMO28cF2T3YwAAm59mNw
+	(envelope-from <no_reply_support@trust-provider.com>)
+	for <starp56@hosting31.ukrnames.com>; Sun, 19 Mar 2023 16:30:07 +0200
+Return-path: <no_reply_support@trust-provider.com>
+Envelope-to: admin@star-poe.com.ua
+Delivery-date: Sun, 19 Mar 2023 16:30:07 +0200
+Received: from opsmail.colo.comodo.com ([91.209.196.133]:53191 helo=msmail6.mcr.dc.comodoca.net)
+	by hosting31.ukrnames.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <no_reply_support@trust-provider.com>)
+	id 1pdu2v-0006f7-1Q
+	for admin@star-poe.com.ua;
+	Sun, 19 Mar 2023 16:30:07 +0200
+Received: (qmail 3330 invoked by uid 1032); 19 Mar 2023 14:29:23 -0000
+Authentication-Results: msmail6.mcr.dc.comodoca.net; auth=none
+Received: from mcdpcasasp1.mcr.dc.comodoca.net (HELO saspmail.dc.comodoca.net) (10.17.128.81)
+ by msmail6.mcr.dc.comodoca.net (qpsmtpd/0.96) with SMTP ; Sun, 19 Mar 2023 14:29:23 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=trust-provider.com; h=subject:from:to:date:mime-version:content-type; s=smail; bh=HQRbI+bnnf7AqZYHZ6bCSkz8QfJLgreaeHPAo5QCskk=; b=luDLAFa9tqxiFKFOfyCas7Ht/wh4s4/f9cQ0LXOwciDKmXI0OoPs3HY8uzIeHShDd8KBc8DX2I2XrCA9kPZ3l4W9M/fwxDoi3kIfwgzyjY0elN0juzadTjjNDOfZXaOgQl/jE0lsnJBCovzHnfgBOlRfG7ATpJnHDSxr9hDs+8Q=
+Subject: ORDER #1514768350 - Domain Control Validation for star-poe.com.ua  (reference #37136)
+From: "Sectigo Certification Authority" <noreply_support@trust-provider.com>
+To: "admin@star-poe.com.ua" <admin@star-poe.com.ua>
+Date: Sun, 19 Mar 2023 14:29:21 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="(idrg022aw5mzvv41)"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hosting31.ukrnames.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Dear admin@star-poe.com.ua, We have received the request to
+    issue an SSL certificate for: Domain: star-poe.com.ua Subject: Privatna osoba
+    Yaroslavskaya, 17, 34 Krivoj Rog Dnepropetrovskaya 50026 Ukraine 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ukrnames.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+--(idrg022aw5mzvv41)
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear admin@star-poe.com.ua,
+
+We have received the request to issue an SSL certificate for:
+Domain: star-poe.com.ua
+Subject: 
+             Privatna osoba
+             Yaroslavskaya, 17, 34
+             Krivoj Rog
+             Dnepropetrovskaya
+             50026
+             Ukraine
+
+This order was placed by a person whose email address is maximpedich@gmail.com
+
+To complete the domain control validation for this certificate, please click here
+https://secure.trust-provider.com/products/EnterDCVCode?orderNumber=1514768350
+and enter the following "validation code" (please make sure the reference number mentioned in this email subject matches the one you will see when entering the validation code):
+
+        M-XYvcQgvqbEFWBX7sh0RNSoTBqX6*Ub
+
+
+
+**************PLEASE NOTE CHOOSING THE OPTION BELOW WILL REJECT THE CERTIFICATE**************
+If neither you nor a trusted colleague made this request for a certificate then
+you can reject it by browsing to:
+
+https://secure.trust-provider.com/products/RejectDCVCode?orderNumber=1514768350&dcvCode=M-XYvcQgvqbEFWBX7sh0RNSoTBqX6*Ub
+
+
+
+
+Don’t hesitate to contact us for any questions.
+We are always glad to help you.
+Best wishes and have a nice day.
+SSL Processing Department
+www.ukrnames.com
+email: support@ukrnames.com
+Kiev: +380(44) 360-43-10
+Kharkov: +380(57) 780-03-86
+61024, Kharkov, / I 1823 ("Center of Ukrainian Internet Names")
+
+
+--(idrg022aw5mzvv41)
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+  <style type=text/css>
+  <!--
+    body { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    p { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    pre { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    pre.validate { font-family: Arial, Helvetica, sans-serif; font-size:11pt; color:#007A00; font-weight: bold;}
+    pre.reject { font-family: Arial, Helvetica, sans-serif; font-size:7pt; color:#FF0000; font-weight: bold;}
+    td { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    .p8 { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal }
+    .p4 { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #006699; font-weight: bold }
+    A:link    { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:visited { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:active  { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:hover   { font-family: Arial; color: #003399; font-weight: bold; text-decoration: underline }
+    .title { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; font-weight: bold; color: #003399 }
+    -->
+  </style>
+</head>
+<body bgcolor=#CCCCCC text=#000000 leftmargin=4 topmargin=5>
+<table width=780 border=0 cellspacing=0 cellpadding=1 align=left>
+  <tr><td align=left><img border="0" src="http://secure.trust-provider.com/images/banners/reseller/UkrnamesSSL.gif"></td></tr>
+  <tr>
+    <td bgcolor=#000000>
+      <table width=780 border=0 cellspacing=0 cellpadding=3 align=left>
+        <tr>
+          <td bgcolor=#FFFFFF>
+            <br><font size=2 class=title>Domain Control Validation for:star-poe.com.ua</font>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=#FFFFFF colspan=2>
+            <p><br>Dear admin@star-poe.com.ua,</p>
+            <pre>
+We have received the request to issue an SSL certificate for:
+Domain(s): star-poe.com.ua
+Subject: 
+             Privatna osoba
+             Yaroslavskaya, 17, 34
+             Krivoj Rog
+             Dnepropetrovskaya
+             50026
+             Ukraine
+<br>This order was placed by a person whose email address is maximpedich@gmail.com</pre>
+            <pre class="validate">
+<b>To complete the domain control validation for this certificate, please click <a href="https://secure.trust-provider.com/products/EnterDCVCode?orderNumber=1514768350"><font color=#007A00>here</font></a>
+and enter the following "validation code" (please make sure the reference number mentioned in this email subject matches the one you will see when entering the validation code):</b></pre>
+            <pre class="validate" style="text-align:center;"><b>M-XYvcQgvqbEFWBX7sh0RNSoTBqX6*Ub</b></pre>
+            <pre class="reject"><br><br><br><br>
+**************PLEASE NOTE CHOOSING THE OPTION BELOW WILL REJECT THE CERTIFICATE**************
+            If neither you nor a trusted colleague made this request for
+            a certificate then you can reject it by browsing to <a href="https://secure.trust-provider.com/products/RejectDCVCode?orderNumber=1514768350&amp;dcvCode=M-XYvcQgvqbEFWBX7sh0RNSoTBqX6*Ub"><font color=#FF0000>Reject</font></a></pre>
+
+	<p>Thank you for being a valued Sectigo customer.</p>
+<p align=center><a target="_blak"  style="color:#1c94c4" href="http://www.sectigo.com/">visit our website</a></p>
+<p align=center><a target="_blak"  style="color:#1c94c4" href="https://support.sectigo.com/">get support</a></p>
+<p align=center>Copyright &#9400; Sectigo Limited, All rights reserved.</p>
+
+	
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+--(idrg022aw5mzvv41)--
+

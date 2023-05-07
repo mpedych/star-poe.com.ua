@@ -1,0 +1,26 @@
+; cPanel first:108.0.14 (update_time):1679308930 Cpanel::ZoneFile::VERSION:1.3 hostname:hosting31.ukrnames.com latest:108.0.14
+; Zone file for star-poe.com.ua
+$TTL 14400
+star-poe.com.ua.	86400	IN	SOA	ns1.host.ukrnames.com. admin.ukrnames.com. 2023032001 3600 1800 1209600 86400
+
+
+
+
+
+star-poe.com.ua.	86400	IN	NS	ns1.host.ukrnames.com.
+star-poe.com.ua.	86400	IN	NS	ns2.host.ukrnames.com.
+star-poe.com.ua.	14400	IN	A	51.77.52.225
+star-poe.com.ua.	14400	IN	MX	0 star-poe.com.ua.
+mail	14400	IN	CNAME	star-poe.com.ua.
+www	14400	IN	CNAME	star-poe.com.ua.
+ftp	14400	IN	A	51.77.52.225
+star-poe.com.ua.	14400	IN	TXT	"v=spf1 +a +mx +ip4:51.77.52.225 ~all"
+cpcalendars	14400	IN	A	51.77.52.225
+cpcontacts	14400	IN	A	51.77.52.225
+webdisk	14400	IN	A	51.77.52.225
+webmail	14400	IN	A	51.77.52.225
+whm	14400	IN	A	51.77.52.225
+cpanel	14400	IN	A	51.77.52.225
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAywuaB/VN41Gl1i0IM73Hj3k4KoTWGp7FsgL1Fdwifo3vtRnelOMBCcavxiFFxhtKGa6OidM2SQSMXyX8qhnWckBUQ9H9vKBJRKvaoqun+3J/QLAoyFwEM+8mzpAtw8Yd8/v5ydUfx4M77MghMasUrcSKXzjBRldafGLNrkI2bVfDFcRr9ixOy1QjwkKw1hw4G" "Zu2rRw9yyRIBRb4xKrVA33qjokYbgC7dZlmYC5XNizAVu2O0YmOlBHxyQSd5BxoG2edZWJeqyICvzRQlu21/KWkpNLv+qVgLKA+0FI/0RsVNtME/sQvSwUdpGf0ZflYOA2tVG5eU1aLod8fCN9F9QIDAQAB;"
+_3B8B692A5E6EC17DC94AB2216D60A116	14400	IN	CNAME	02197AB2442CC867FD3F0DE748E74F74.77FAE0D3A2883AF12FA4D7AC636E3256.t0538338001679236160.sectigo.com.
+_BDB64EBCCC58BA1A53699A72923B725A	14400	IN	CNAME	97B97305EE65732A591862D82A5B27A6.27C1397C5D887FE917A15EC9916F9464.t0190236001679308904.sectigo.com.
