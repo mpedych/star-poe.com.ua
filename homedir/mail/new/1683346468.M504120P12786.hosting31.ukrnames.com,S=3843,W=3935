@@ -1,0 +1,92 @@
+Return-Path: <>
+Delivered-To: starp56@hosting31.ukrnames.com
+Received: from hosting31.ukrnames.com
+	by hosting31.ukrnames.com with LMTP
+	id iFTzHSTUVWTyMQAAm59mNw
+	(envelope-from <>)
+	for <starp56@hosting31.ukrnames.com>; Sat, 06 May 2023 07:14:28 +0300
+Return-path: <>
+Envelope-to: starp56@hosting31.ukrnames.com
+Delivery-date: Sat, 06 May 2023 07:14:28 +0300
+Received: from mailnull by hosting31.ukrnames.com with local (Exim 4.96)
+	id 1pv9JU-0003K8-1M
+	for starp56@hosting31.ukrnames.com;
+	Sat, 06 May 2023 07:14:28 +0300
+X-Failed-Recipients: maksym.pedychtest2@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@hosting31.ukrnames.com>
+To: starp56@hosting31.ukrnames.com
+References: <iVeb0QCdWywdnL8UoCm7PyfEw2wWRrMH4TzWCQBduc@star-poe.com.ua>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1683346468-eximdsn-2055244237
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pv9JU-0003K8-1M@hosting31.ukrnames.com>
+Date: Sat, 06 May 2023 07:14:28 +0300
+
+--1683346468-eximdsn-2055244237
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  maksym.pedychtest2@gmail.com
+    host gmail-smtp-in.l.google.com [66.102.1.27]
+    SMTP error from remote mail server after RCPT TO:<maksym.pedychtest2@gmail.com>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser r4-20020a5d4984000000b002ef0a3b44d0si1830241wrq.570 - gsmtp
+
+--1683346468-eximdsn-2055244237
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; hosting31.ukrnames.com
+
+Action: failed
+Final-Recipient: rfc822;maksym.pedychtest2@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser r4-20020a5d4984000000b002ef0a3b44d0si1830241wrq.570 - gsmtp
+
+--1683346468-eximdsn-2055244237
+Content-type: message/rfc822
+
+Return-path: <starp56@hosting31.ukrnames.com>
+Received: from starp56 by hosting31.ukrnames.com with local (Exim 4.96)
+	(envelope-from <starp56@hosting31.ukrnames.com>)
+	id 1pv9JT-0003Jz-2t
+	for maksym.pedychtest2@gmail.com;
+	Sat, 06 May 2023 07:14:27 +0300
+To: maksym.pedychtest2@gmail.com
+Subject: =?UTF-8?B?W1N0YXJsaW5rIFBvRV0g0JDQtNGA0LXRgdCwIEVtYWlsINC30LzRltC90LU=?=
+ =?UTF-8?B?0L3QsA==?=
+X-PHP-Script: star-poe.com.ua/index.php for 94.178.113.124
+ X-PHP-Originating-Script: 1251:PHPMailer.php
+Date: Sat, 6 May 2023 04:14:27 +0000
+From: WordPress <wordpress@star-poe.com.ua>
+Message-ID: <iVeb0QCdWywdnL8UoCm7PyfEw2wWRrMH4TzWCQBduc@star-poe.com.ua>
+X-Mailer: PHPMailer 6.7 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Привіт maksym.pedychtest2,
+
+Це сповіщення підтверджує, що ваша e-mail адреса на Starlink PoE була змінена на maksym.pedychtest23@gmail.com.
+
+Якщо ви не міняли свою e-mail адресу, будь ласка, зв’яжіться з адміністратором сайту:
+maksym.pedych@gmail.com
+
+Це e-mail повідомлення надіслано до maksym.pedychtest2@gmail.com
+
+З повагою,
+Все на Starlink PoE
+https://star-poe.com.ua
+
+
+--1683346468-eximdsn-2055244237--

@@ -1,14 +1,14 @@
-# Webalizer V2.23-08 Incremental Data - 05/04/2023 04:18:30
-2023 5 4 4 18 30
-114 98 30 35 5 17 3957123 32 21 0
-1 1 33 1 4
+# Webalizer V2.23-08 Incremental Data - 05/07/2023 13:27:08
+2023 5 7 13 27 8
+263 239 43 40 6 23 8965953 65 39 0
+11 35 35 1 7
 14 10 455154 6 8 4
 56 47 1967236 15 14 10
 43 40 1454709 11 9 6
-1 1 80024 1 1 1
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
+43 41 1520518 5 8 4
+43 42 1530108 7 8 5
+5 5 261787 3 3 2
+59 54 1776441 11 15 8
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -34,33 +34,33 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0
-0 0 0 0
+6 4 129049 2
 4 2 134172 0
 6 4 212128 2
-5 3 214177 1
-0 0 0 0
+8 6 390991 3
+18 16 446721 5
 0 0 0 0
 2 2 77954 1
 0 0 0 0
 1 1 89644 1
-0 0 0 0
+2 2 88322 1
 5 4 124100 1
-30 30 1090537 4
-2 1 77954 1
-2 2 77954 1
-38 35 1245374 8
+33 33 1091399 4
+37 35 1278625 9
+8 7 427893 5
+40 37 1335365 9
 0 0 0 0
 0 0 0 0
-4 3 155906 3
+11 8 328867 5
 11 7 301316 7
-2 2 77953 1
+35 35 1255495 5
 0 0 0 0
 2 2 77954 1
-0 0 0 0
+34 34 1175958 4
 0
 0
 0
-98
+239
 0
 0
 0
@@ -68,8 +68,8 @@
 0
 0
 0
-5
-3
+9
+7
 0
 0
 0
@@ -100,82 +100,95 @@
 0
 # -urls- 
 /wp-content/uploads/2023/03/v2_starlink_rectangular_dishy-100x100.png
-0 1 0 5182 0 0
+0 3 8587647011588879921 15546 0 0
+/wp-content/plugins/advanced-product-labels-for-woocommerce/berocket/assets/tippy/tippy.css
+0 2 7171939 38208 0 0
 /wp-content/plugins/woocommerce-menu-bar-cart/assets/js/wpmenucart-ajax-assist.min.js
-0 1 0 665 0 0
+0 3 19568032 1995 0 0
 /wp-content/themes/storefront/assets/css/base/gutenberg-blocks.css
-0 2 0 85894 0 0
+0 5 0 214735 0 0
 /wp-content/uploads/2023/03/v2_starlink_rectangular_dishy-324x324.png
-0 1 0 38894 0 0
+0 4 0 155576 0 0
 /wp-content/plugins/woocommerce-menu-bar-cart/assets/css/wpmenucart-main.min.css
-0 2 0 2004 0 0
+0 5 0 5010 0 0
 /wp-json/wp/v2/users/
 0 1 0 6807 0 0
 /wp-includes/css/classic-themes.min.css
-0 2 0 582 0 0
+0 5 0 1455 0 0
 /wp-content/themes/storefront/assets/css/woocommerce/woocommerce.css
-0 2 0 117170 0 0
+0 5 0 292925 0 0
 /wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js
-0 2 0 4278 0 0
+0 6 0 12834 0 0
 /wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js
-0 2 0 1064 0 0
+0 5 0 2660 0 0
+/wp-content/plugins/advanced-product-labels-for-woocommerce/css/frontend.css
+0 4 0 53748 0 0
 /wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
-0 2 0 6377 0 0
+0 6 0 18493 0 0
 /wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css
-0 2 0 20870 0 0
+0 6 0 62610 0 0
+/wp-content/plugins/advanced-product-labels-for-woocommerce/berocket/assets/css/font-awesome.min.css
+0 4 0 123152 0 0
 /wp-json/oembed/1.0/embed
 0 1 0 2443 0 0
 /wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js
-0 2 0 6224 0 0
+0 6 0 17976 0 0
 /wp-content/plugins/speed-contact-bar/public/assets/images/phone_dark.svg
-0 1 0 809 0 0
+0 4 0 3236 0 0
 /wp-content/themes/storefront/assets/css/base/icons.css
-0 2 0 160534 0 0
+0 5 0 401335 0 0
 /wp-content/plugins/contact-form-7/includes/swv/js/
-0 2 0 20482 2 0
+0 6 0 61446 3 1
+/wp-content/plugins/advanced-product-labels-for-woocommerce/js/frontend.js
+0 2 0 10476 0 0
 /wp-includes/js/jquery/jquery-migrate.min.js
-0 2 0 26848 0 0
+0 5 0 67120 0 0
 /wp-content/plugins/woocommerce-ajax-filters/berocket/assets/css/font-awesome.min.css
 0 2 0 61576 0 0
 /wp-content/plugins/contact-form-7/includes/css/styles.css
-0 2 0 5718 0 0
+0 6 0 17154 0 0
 /product/rj45-cat6-extender/
 0 1 0 89644 1 0
 /wp-content/themes/storefront/assets/js/footer.min.js
-0 3 0 2238 0 0
+0 7 0 5222 0 0
 /wp-content/themes/storefront/assets/js/navigation.min.js
-0 2 0 6052 0 0
+0 5 0 15130 0 0
 /wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/fullmain.min.css
-0 2 0 305626 0 0
+0 5 0 764065 0 0
 /wp-includes/js/jquery/jquery.min.js
-0 2 0 179630 0 0
+0 5 0 449075 0 0
 /
-0 19 0 1339481 16 0
+0 41 0 2743345 32 2
+/wp-content/plugins/advanced-product-labels-for-woocommerce/berocket/assets/tippy/tippy.min.js
+0 2 0 78392 0 0
 /wp-content/themes/storefront/style.css
-0 2 0 80996 0 0
+0 5 0 202490 0 0
 /wp-content/themes/storefront/assets/fonts/fa-solid-900.woff2
-0 1 0 79444 0 0
+0 3 0 238332 0 0
 /wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js
-0 2 0 3668 0 0
+0 6 0 11004 0 0
 /robots.txt
-0 1 0 173 0 0
+0 3 0 405 0 0
 /wp-cron.php
-0 21 0 0 0 0
+0 32 0 0 0 0
 /wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css
-0 2 0 519233 0 0
+0 6 0 1561473 0 0
 /wp-content/plugins/contact-form-7/includes/js/
-0 2 0 25886 1 0
+0 6 0 77658 2 1
 /wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
-0 2 0 19010 0 0
+0 6 0 57030 0 0
 /wp-includes/css/dist/block-library/style.min.css
-0 2 0 195034 0 0
+0 5 0 487585 0 0
 # End Of Table - urls
 # -sites- (monthly)
+104.167.221.206
+0 2 2 176814 1 1683348727
+/
 198.235.24.49
 0 1 1 77953 1 1683057688
 /
 crawl-66-249-66-66.googlebot.com
-0 1 1 2859 0 0
+0 3 3 44082 0 0
 -
 crawl-66-249-66-40.googlebot.com
 0 3 3 311033 1 1683042792
@@ -199,31 +212,49 @@ ec2-34-221-29-143.us-west-2.compute.amazonaws.com
 0 1 1 77954 1 1682949981
 /
 crawl-66-249-66-14.googlebot.com
-0 10 10 386946 0 0
--
+0 37 36 1305668 2 1683466027
+/
+scanner-27.ch1.censys-scanner.com
+0 6 4 172961 1 1683225472
+/
 rate-limited-proxy-66-249-92-14.google.com
 0 19 19 673774 1 1683117030
 /
 crawl-66-249-66-1.googlebot.com
-0 1 0 0 0 0
+0 2 1 13437 0 0
 -
+147-118-178-94.pool.ukrtel.net
+0 33 33 1175958 1 1683330460
+/
+ec2-18-237-166-118.us-west-2.compute.amazonaws.com
+0 1 1 84973 1 1683384687
+/
 hosting31.ukrnames.com
-0 21 21 0 0 0
+0 32 32 0 0 0
 -
 crawl-66-249-66-65.googlebot.com
-0 6 6 50142 1 1683042803
+0 12 12 108704 1 1683042803
 /wp-content/plugins/contact-form-7/includes/js/
+crawl-66-249-66-41.googlebot.com
+0 1 1 84973 1 1683466025
+/
+ec2-35-87-188-55.us-west-2.compute.amazonaws.com
+0 1 1 88322 1 1683296133
+/
 ec2-34-221-113-232.us-west-2.compute.amazonaws.com
 0 1 0 0 0 0
 -
 199.244.88.219
 0 1 1 80024 1 1683173910
 /
+crawl-66-249-66-3.googlebot.com
+0 1 0 0 0 0
+-
 rate-limited-proxy-66-249-92-39.google.com
 0 2 2 42332 0 0
 -
 scanner-26.ch1.censys-scanner.com
-0 4 3 124100 1 1683115039
+0 9 6 253149 2 1683423104
 /
 ec2-34-221-2-90.us-west-2.compute.amazonaws.com
 0 1 1 77954 1 1682981223
@@ -232,13 +263,25 @@ ec2-34-221-2-90.us-west-2.compute.amazonaws.com
 0 7 1 480453 1 1682999318
 /
 crawl-66-249-66-39.googlebot.com
-0 6 6 154605 1 1683042808
+0 8 8 165034 2 1683438566
 /
 crawl-66-249-66-15.googlebot.com
-0 3 3 102534 0 0
--
+0 14 14 623442 2 1683466025
+/
+207.11.73.228
+0 33 33 1177542 1 1683233105
+/
 ec2-35-90-94-113.us-west-2.compute.amazonaws.com
 0 1 1 80024 1 1683126262
+/
+ec2-35-92-22-142.us-west-2.compute.amazonaws.com
+0 2 1 88322 1 1683296145
+/
+205.210.31.53
+0 1 1 88322 1 1683283428
+/
+crawl-66-249-66-2.googlebot.com
+0 1 0 0 1 1683438555
 /
 fwdproxy-lla-004.fbsv.net
 0 1 1 89644 1 1683019731
@@ -249,8 +292,14 @@ rate-limited-proxy-66-249-92-15.google.com
 crawl-66-249-66-32.googlebot.com
 0 1 0 0 1 1683042792
 /
+ec2-18-237-222-75.us-west-2.compute.amazonaws.com
+0 1 1 88322 1 1683297509
+/
 ec2-35-88-123-159.us-west-2.compute.amazonaws.com
 0 1 1 77954 1 1683014104
+/
+ec2-54-202-244-113.us-west-2.compute.amazonaws.com
+0 1 1 89991 1 1683214628
 /
 ec2-54-212-42-253.us-west-2.compute.amazonaws.com
 0 1 1 77954 1 1682949199
@@ -263,17 +312,49 @@ ec2-35-91-89-16.us-west-2.compute.amazonaws.com
 /
 # End Of Table - sites (monthly)
 # -sites- (daily)
-199.244.88.219
-0 1 1 80024 1 1683173910
+crawl-66-249-66-66.googlebot.com
+0 2 2 41223 0 0
+-
+crawl-66-249-66-14.googlebot.com
+0 25 24 917860 2 1683466027
+/
+crawl-66-249-66-1.googlebot.com
+0 1 1 13437 0 0
+-
+hosting31.ukrnames.com
+0 4 4 0 0 0
+-
+crawl-66-249-66-65.googlebot.com
+0 6 6 58562 0 0
+-
+crawl-66-249-66-41.googlebot.com
+0 1 1 84973 1 1683466025
+/
+crawl-66-249-66-3.googlebot.com
+0 1 0 0 0 0
+-
+scanner-26.ch1.censys-scanner.com
+0 5 3 129049 1 1683423104
+/
+crawl-66-249-66-39.googlebot.com
+0 2 2 10429 1 1683438566
+/
+crawl-66-249-66-15.googlebot.com
+0 11 11 520908 2 1683466025
+/
+crawl-66-249-66-2.googlebot.com
+0 1 0 0 1 1683438555
 /
 # End Of Table - sites (daily)
 # -referrers- 
 http://star-poe.com.ua/
-0 52
-- (Direct Request)
-0 59
-http://star-poe.com.ua/wp-content/themes/storefront/assets/css/base/icons.css
+0 156
+https://star-poe.com.ua/product/tycon-poe-inj-1000-wt/
 0 1
+- (Direct Request)
+0 101
+http://star-poe.com.ua/wp-content/themes/storefront/assets/css/base/icons.css
+0 3
 http://www.star-poe.com.ua
 0 1
 https://star-poe.com.ua/shop/
@@ -282,24 +363,34 @@ https://star-poe.com.ua/shop/
 # -agents- 
 Mozilla/5.0 (Linux; Android 11; ONEPLUS A6013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
 0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 2
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 2
 Mozilla/5.0 (Linux; Android 12; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.57 Mobile Safari/537.36
 0 3
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
-0 3
+0 6
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-0 2
+0 7
 Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
-0 4
+0 15
+Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.3
+0 33
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.142 Mobile
-0 29
+0 46
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
 0 6
+Googlebot-Image/1.0
+0 1
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36
 0 3
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
-0 4
+0 7
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/112.0.5
+0 28
 facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 0 1
 AdsBot-Google (+http://www.google.com/adsbot.html)
@@ -309,9 +400,11 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like G
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 0 1
 Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
-0 1
+0 2
 WordPress/6.2; https://star-poe.com.ua
-0 21
+0 32
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+0 33
 Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 0 3
 # End Of Table - agents

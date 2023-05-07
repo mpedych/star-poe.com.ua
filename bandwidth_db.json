@@ -1,1 +1,1 @@
-{"domains":{"UNKNOWN":1,"star-poe.com.ua":2},"tables":{"bandwidth_daily":1,"bandwidth_hourly":1,"bandwidth_5min":1},"metadata":{},"version":3}
+{"metadata":{},"version":3,"tables":{"bandwidth_hourly":1,"bandwidth_daily":1,"bandwidth_5min":1},"domains":{"star-poe.com.ua":2,"UNKNOWN":1}}

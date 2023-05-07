@@ -8,33 +8,33 @@ AWSTATS DATA FILE 7.8 (build 20200416)
 # update).
 BEGIN_MAP 28
 POS_GENERAL 2011                
-POS_TIME 2685                
-POS_VISITOR 7294                
-POS_DAY 7887                
-POS_DOMAIN 3247                
-POS_LOGIN 3512                
-POS_ROBOT 3667                
-POS_WORMS 4006                
-POS_EMAILSENDER 4137                
-POS_EMAILRECEIVER 4280                
-POS_SESSION 8035                
-POS_SIDER 8210                
-POS_FILETYPES 4415                
-POS_DOWNLOADS 4547                
-POS_OS 4595                
-POS_BROWSER 4717                
-POS_SCREENSIZE 4950                
-POS_UNKNOWNREFERER 5024                
-POS_UNKNOWNREFERERBROWSER 5536                
-POS_ORIGIN 5957                
-POS_SEREFERRALS 6089                
-POS_PAGEREFS 6233                
-POS_SEARCHWORDS 6381                
-POS_KEYWORDS 6533                
-POS_MISC 2349                
-POS_ERRORS 6592                
-POS_CLUSTER 3368                
-POS_SIDER_404 6689                
+POS_TIME 2689                
+POS_VISITOR 7493                
+POS_DAY 8541                
+POS_DOMAIN 3285                
+POS_LOGIN 3568                
+POS_ROBOT 3723                
+POS_WORMS 4062                
+POS_EMAILSENDER 4193                
+POS_EMAILRECEIVER 4336                
+POS_SESSION 8761                
+POS_SIDER 8936                
+POS_FILETYPES 4471                
+POS_DOWNLOADS 4674                
+POS_OS 4722                
+POS_BROWSER 4871                
+POS_SCREENSIZE 5148                
+POS_UNKNOWNREFERER 5222                
+POS_UNKNOWNREFERERBROWSER 5734                
+POS_ORIGIN 6155                
+POS_SEREFERRALS 6288                
+POS_PAGEREFS 6432                
+POS_SEARCHWORDS 6580                
+POS_KEYWORDS 6732                
+POS_MISC 2353                
+POS_ERRORS 6791                
+POS_CLUSTER 3424                
+POS_SIDER_404 6888                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -46,65 +46,66 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20230504041830 6 838 10074230325550
+LastLine 20230507132708 59 17266 5412644796883
 FirstTime 20230501135319
-LastTime 20230504041830
-LastUpdate 20230504152726 6 0 6 0 0
-TotalVisits 23                  
-TotalUnique 13                  
+LastTime 20230507132652
+LastUpdate 20230507152800 59 0 59 0 0
+TotalVisits 44                  
+TotalUnique 24                  
 MonthHostsKnown 0                   
-MonthHostsUnknown 13                  
+MonthHostsUnknown 24                  
 END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
 BEGIN_MISC 10
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
 PDFSupport 0 0 0
 DirectorSupport 0 0 0
-JavaEnabled 0 0 0
-FlashSupport 0 0 0
 QuickTimeSupport 0 0 0
-JavascriptDisabled 0 0 0
-TotalMisc 0 0 0
 WindowsMediaPlayerSupport 0 0 0
-RealPlayerSupport 0 0 0
-AddToFavourites 0 3 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 7 0
 END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
 0 0 0 0 0 0 0
-1 0 0 0 0 0 0
+1 2 4 129049 1 2 0
 2 2 2 0 0 2 134172
 3 4 4 77954 1 2 134174
-4 3 3 80024 0 2 134153
-5 0 0 0 0 0 0
+4 6 6 256838 0 2 134153
+5 1 1 0 3 17 446721
 6 0 0 0 0 0 0
 7 1 1 0 1 1 77954
 8 0 0 0 0 0 0
 9 0 0 0 1 1 89644
-10 0 0 0 0 0 0
+10 2 2 88322 0 0 0
 11 2 4 124100 0 1 0
-12 1 1 0 3 29 1090537
-13 1 1 77954 0 1 0
-14 2 2 77954 0 0 0
-15 7 7 238001 3 31 1007373
+12 2 2 0 3 31 1091399
+13 3 3 77954 6 34 1200671
+14 7 7 427893 0 1 0
+15 9 9 327992 3 31 1007373
 16 0 0 0 0 0 0
 17 0 0 0 0 0 0
-18 3 3 155906 1 1 0
+18 5 8 328867 2 3 0
 19 6 6 87204 5 5 214112
-20 2 2 77953 0 0 0
+20 5 35 1255495 0 0 0
 21 0 0 0 0 0 0
 22 2 2 77954 0 0 0
-23 0 0 0 0 0 0
+23 4 34 1175958 0 0 0
 END_TIME
 
 # Domain - Pages - Hits - Bandwidth
 # The 25 first Pages must be first (order not required for others)
-BEGIN_DOMAIN 4
-gb 21 21 0
-us 10 12 831893
+BEGIN_DOMAIN 5
+gb 32 32 0
+us 22 59 2928189
 be 4 4 165158
-ca 1 1 77953
+ua 3 33 1175958
+ca 2 2 166275
 END_DOMAIN
 
 # Cluster ID - Pages - Hits - Bandwidth
@@ -119,11 +120,11 @@ END_LOGIN
 # Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
 # The 25 first Hits must be first (order not required for others)
 BEGIN_ROBOT 5
-Googlebot/ 29 1008119 20230503124858 1
+Googlebot/ 78 2656373 20230507132707 3
 AdsBot\-Google[\x20]\( 28 1089791 20230503123030 0
 survey 1 80024 20230503192820 0
-no_user_agent 1 77954 20230502075504 0
 facebookexternalhit/ 1 89644 20230502092851 0
+no_user_agent 1 77954 20230502075504 0
 END_ROBOT
 
 # Worm ID - Hits - Bandwidth - Last visit
@@ -142,11 +143,15 @@ BEGIN_EMAILRECEIVER 0
 END_EMAILRECEIVER
 
 # Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
-BEGIN_FILETYPES 4
-png 2 44076 0 0
-html 14 1028485 0 0
-php 21 0 0 0
+BEGIN_FILETYPES 8
+php 32 0 0 0
+png 7 171122 0 0
+css 28 1622206 0 0
+woff2 2 158888 0 0
+js 30 390542 0 0
+svg 2 1618 0 0
 Unknown 1 2443 0 0
+html 28 2088761 0 0
 END_FILETYPES
 
 # Downloads - Hits - Bandwidth
@@ -154,25 +159,29 @@ BEGIN_DOWNLOADS 0
 END_DOWNLOADS
 
 # OS ID - Hits
-BEGIN_OS ID - Hits - Pages 5
-Unknown 25 23
-win10 6 6
-macosx 1 1
+BEGIN_OS ID - Hits - Pages 7
+linux 7 7
+android 33 3
+macosx15 35 5
 macosx8 1 1
-linux 5 5
+win10 9 9
+Unknown 44 37
+macosx 1 1
 END_OS
 
 # Browser ID - Hits - Pages
-BEGIN_BROWSER 9
-chrome83.0.4103.97 2 2
-Unknown 22 22
-chrome111.0.0.0 1 1
-chrome26.0.1410.65 1 1
-chrome89.0.4389.82 2 2
-mozilla 3 1
-chrome105.0.0.0 1 1
+BEGIN_BROWSER 11
+chrome83.0.4103.97 4 4
+chrome109.0.0.0 2 2
+chrome66.0.3359.181 6 6
+chrome112.0.0.0 33 3
+chrome111.0.0.0 34 4
 chrome89.0.4389.114 3 3
-chrome66.0.3359.181 3 3
+chrome26.0.1410.65 1 1
+mozilla 10 3
+chrome89.0.4389.82 2 2
+chrome105.0.0.0 1 1
+Unknown 34 34
 END_BROWSER
 
 # Screen size - Hits
@@ -181,24 +190,24 @@ END_SCREENSIZE
 
 # Unknown referer OS - Last visit date
 BEGIN_UNKNOWNREFERER 3
-Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230502200128
-Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230503115730
-WordPress/6.2;_https://star-poe.com.ua 20230503192819
+WordPress/6.2;_https://star-poe.com.ua 20230507132652
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230507013145
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230505104348
 END_UNKNOWNREFERER
 
 # Unknown referer Browser - Last visit date
 BEGIN_UNKNOWNREFERERBROWSER 2
-WordPress/6.2;_https://star-poe.com.ua 20230503192819
-Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230502200128
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230505104348
+WordPress/6.2;_https://star-poe.com.ua 20230507132652
 END_UNKNOWNREFERERBROWSER
 
 # Origin - Pages - Hits 
 BEGIN_ORIGIN 6
-From0 35 37
+From0 58 65
 From1 0 0
 From2 0 0
 From3 0 0
-From4 1 1
+From4 5 65
 From5 0 0
 END_ORIGIN
 
@@ -223,51 +232,65 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 2
+301 9 0
 404 8 536587
-301 5 0
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 7
-/complete-order/ 1 -
 /wp-content/plugins/wp-sms/readme.txt 1 -
-/wp-content/plugins/woocommerce-payments/readme.txt 1 -
 /wp-content/plugins/ninja-forms/readme.txt 1 -
 /wp-content/plugins/zendrop-dropshipping-and-fulfillment/readme.txt 1 -
+/complete-order/ 1 -
 / 2 -
 /wp-content/plugins/wp-email-capture/readme.txt 1 -
+/wp-content/plugins/woocommerce-payments/readme.txt 1 -
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
 # [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
 # The 25 first Hits must be first (order not required for others)
-BEGIN_VISITOR 13
-51.77.52.225 21 21 0 20230503192819
+BEGIN_VISITOR 24
+51.77.52.225 32 32 0 20230507132652 20230507132635 /wp-cron.php
+94.178.118.147 3 33 1175958 20230505234740
 57.128.84.67 3 3 87204 20230501190904
+207.11.73.228 3 33 1177542 20230504204505
 144.91.106.14 2 2 155906 20230502184631
-54.212.42.253 1 1 77954 20230501135319
+104.167.221.206 2 2 176814 20230506045207
 34.221.2.90 1 1 77954 20230501224703
-198.235.24.49 1 1 77953 20230502200128
+54.202.244.113 1 1 89991 20230504153708
+35.92.22.142 1 1 88322 20230505141545
+54.212.42.253 1 1 77954 20230501135319
+35.87.188.55 1 1 88322 20230505141533
 34.220.254.250 1 1 80024 20230503154928
-35.91.89.16 1 1 77953 20230502153309
-199.244.88.219 1 1 80024 20230504041830 20230504041830 /
-57.128.83.46 1 1 77954 20230502034838
+167.94.138.125 1 4 172961 20230504183752
+198.235.24.49 1 1 77953 20230502200128
 167.248.133.126 1 3 124100 20230503115719
-35.90.94.113 1 1 80024 20230503150422
+18.237.166.118 1 1 84973 20230506145127
+57.128.83.46 1 1 77954 20230502034838
+205.210.31.53 1 1 88322 20230505104348
+35.91.89.16 1 1 77953 20230502153309
+167.248.133.125 1 3 129049 20230507013144
 34.221.29.143 1 1 77954 20230501140621
+35.90.94.113 1 1 80024 20230503150422
+199.244.88.219 1 1 80024 20230504041830
+18.237.222.75 1 1 88322 20230505143829
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits
-BEGIN_DAY 4
+BEGIN_DAY 7
 20230501 10 10 321066 7
 20230502 17 17 389766 9
 20230503 8 10 284148 6
-20230504 1 1 80024 1
+20230504 8 41 1520518 6
+20230505 10 40 1529246 8
+20230506 5 5 261787 4
+20230507 5 7 129049 4
 END_DAY
 
 # Session range - Number of visits
 BEGIN_SESSION 4
-0s-30s 18
+0s-30s 39
 30mn-1h 2
 1h+ 1
 15mn-30mn 1
@@ -275,9 +298,10 @@ END_SESSION
 
 # URL - Pages - Bandwidth - Entry - Exit
 # The 25 first Pages must be first (order not required for others)
-BEGIN_SIDER 4
-/wp-cron.php 21 0 11 11
-/ 13 1021678 12 10
-/wp-json/wp/v2/users/ 1 6807 0 0
+BEGIN_SIDER 5
+/wp-cron.php 32 0 21 20
+/ 27 2081954 23 22
+/wp-content/themes/storefront/assets/fonts/fa-solid-900.woff2 2 158888 0 0
 /wp-json/oembed/1.0/embed 1 2443 0 1
+/wp-json/wp/v2/users/ 1 6807 0 0
 END_SIDER
