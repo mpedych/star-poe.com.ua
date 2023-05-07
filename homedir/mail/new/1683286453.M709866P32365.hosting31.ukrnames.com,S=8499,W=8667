@@ -1,0 +1,168 @@
+Return-Path: <>
+Delivered-To: starp56@hosting31.ukrnames.com
+Received: from hosting31.ukrnames.com
+	by hosting31.ukrnames.com with LMTP
+	id sJUDKrXpVGRtfgAAm59mNw
+	(envelope-from <>)
+	for <starp56@hosting31.ukrnames.com>; Fri, 05 May 2023 14:34:13 +0300
+Return-path: <>
+Envelope-to: starp56@hosting31.ukrnames.com
+Delivery-date: Fri, 05 May 2023 14:34:13 +0300
+Received: from mailnull by hosting31.ukrnames.com with local (Exim 4.96)
+	id 1puthV-0008TM-2A
+	for starp56@hosting31.ukrnames.com;
+	Fri, 05 May 2023 14:34:13 +0300
+X-Failed-Recipients: ewfewf@mail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@hosting31.ukrnames.com>
+To: starp56@hosting31.ukrnames.com
+References: <DLa6yUw6xZL6gNRGyOrvlwuhFYIwsEHQ5s5hzHJdx5c@star-poe.com.ua>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1683286453-eximdsn-1888062647
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1puthV-0008TM-2A@hosting31.ukrnames.com>
+Date: Fri, 05 May 2023 14:34:13 +0300
+
+--1683286453-eximdsn-1888062647
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  ewfewf@mail.com
+    host mx01.mail.com [74.208.5.22]
+    SMTP error from remote mail server after RCPT TO:<ewfewf@mail.com>:
+    550 Requested action not taken: mailbox unavailable
+
+--1683286453-eximdsn-1888062647
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; hosting31.ukrnames.com
+
+Action: failed
+Final-Recipient: rfc822;ewfewf@mail.com
+Status: 5.0.0
+Remote-MTA: dns; mx01.mail.com
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+--1683286453-eximdsn-1888062647
+Content-type: message/rfc822
+
+Return-path: <starp56@hosting31.ukrnames.com>
+Received: from starp56 by hosting31.ukrnames.com with local (Exim 4.96)
+	(envelope-from <starp56@hosting31.ukrnames.com>)
+	id 1puthT-0008TA-1h
+	for ewfewf@mail.com;
+	Fri, 05 May 2023 14:34:11 +0300
+To: ewfewf@mail.com
+Subject: =?UTF-8?B?0JLQsNGIIFN0YXJsaW5rIFBvRSDQvtCx0LvRltC60L7QstC40Lkg0LfQsA==?=
+ =?UTF-8?B?0L/QuNGBINGB0YLQstC+0YDQtdC90L4h?=
+X-PHP-Script: star-poe.com.ua/index.php for 212.58.120.181
+ X-PHP-Originating-Script: 1251:PHPMailer.php
+Date: Fri, 5 May 2023 11:34:11 +0000
+From: =?UTF-8?B?0JDQu9GM0YLQtdGA0L3QsNGC0LjQstC90LUg0LbQuNCy0LvQtdC90L3RjyBT?=
+ =?UTF-8?B?dGFybGluaw==?= <admin@star-poe.com.ua>
+Reply-To: =?UTF-8?B?0JDQu9GM0YLQtdGA0L3QsNGC0LjQstC90LUg0LbQuNCy0LvQtdC90L3RjyBT?=
+ =?UTF-8?B?dGFybGluaw==?= <admin@star-poe.com.ua>
+Message-ID: <DLa6yUw6xZL6gNRGyOrvlwuhFYIwsEHQ5s5hzHJdx5c@star-poe.com.ua>
+X-Mailer: PHPMailer 6.7 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="uk">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+		<title>Starlink PoE</title>
+	<style type="text/css">@media screen and (max-width: 600px){#header_wrapper{padding: 27px 36px !important; font-size: 24px;}#body_content_inner{font-size: 10px !important;}}</style>
+</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="background-color: #f7f7f7; padding: 0; text-align: center;" bgcolor="#f7f7f7">
+		<table width="100%" id="outer_wrapper" style="background-color: #f7f7f7;" bgcolor="#f7f7f7">
+			<tr>
+				<td><!-- Deliberately empty to support consistent sizing and layout across multiple email clients. --></td>
+				<td width="600">
+					<div id="wrapper" dir="ltr" style="margin: 0 auto; padding: 70px 0; width: 100%; max-width: 600px; -webkit-text-size-adjust: none;" width="100%">
+						<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+							<tr>
+								<td align="center" valign="top">
+									<div id="template_header_image">
+																			</div>
+									<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_container" style="background-color: #fff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,.1); border-radius: 3px;" bgcolor="#fff">
+										<tr>
+											<td align="center" valign="top">
+												<!-- Header -->
+												<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_header" style='background-color: #7f54b3; color: #fff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; border-radius: 3px 3px 0 0;' bgcolor="#7f54b3">
+													<tr>
+														<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+															<h1 style='font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #9976c2; color: #fff; background-color: inherit;' bgcolor="inherit">Вітаємо на Starlink PoE</h1>
+														</td>
+													</tr>
+												</table>
+												<!-- End Header -->
+											</td>
+										</tr>
+										<tr>
+											<td align="center" valign="top">
+												<!-- Body -->
+												<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_body">
+													<tr>
+														<td valign="top" id="body_content" style="background-color: #fff;" bgcolor="#fff">
+															<!-- Content -->
+															<table border="0" cellpadding="20" cellspacing="0" width="100%">
+																<tr>
+																	<td valign="top" style="padding: 48px 48px 32px;">
+																		<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; font-size: 14px; line-height: 150%; text-align: left;' align="left">
+
+<p style="margin: 0 0 16px;">Привіт ewfewf,</p>
+<p style="margin: 0 0 16px;">Дякуємо, що створили обліковий запис на Starlink PoE. Ваше ім'я користувача <strong>ewfewf</strong>. Ви можете отримати доступ до свого облікового запису, щоб переглянути замовлення, змінити свій пароль і багато іншого на: <a href="https://star-poe.com.ua/my-account/" style="color: #7f54b3; font-weight: normal; text-decoration: underline;">https://star-poe.com.ua/my-account/</a></p>
+		<p style="margin: 0 0 16px;"><a href="https://star-poe.com.ua/my-account/lost-password/?action=newaccount&amp;key=JOWknYK0ua3kxE9xblbc&amp;login=ewfewf" style="color: #7f54b3; font-weight: normal; text-decoration: underline;">Натисніть тут, щоб задати новий пароль.</a></p>
+
+<p style="margin: 0 0 16px;">Ми з нетерпінням чекаємо вас в найближчому майбутньому.</p>
+																		</div>
+																	</td>
+																</tr>
+															</table>
+															<!-- End Content -->
+														</td>
+													</tr>
+												</table>
+												<!-- End Body -->
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="100%" id="template_footer">
+										<tr>
+											<td valign="top" style="padding: 0; border-radius: 6px;">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit" style='border-radius: 6px; border: 0; color: #8a8a8a; font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; font-size: 12px; line-height: 150%; text-align: center; padding: 24px 0;' align="center">
+															<p style="margin: 0 0 16px;">Starlink PoE — Built with <a href="https://woocommerce.com" style="color: #7f54b3; font-weight: normal; text-decoration: underline;">WooCommerce</a></p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</td>
+				<td><!-- Deliberately empty to support consistent sizing and layout across multiple email clients. --></td>
+			</tr>
+		</table>
+	</body>
+</html>
+
+
+--1683286453-eximdsn-1888062647--
